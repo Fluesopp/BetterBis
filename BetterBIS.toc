@@ -1,0 +1,48 @@
+## Interface: 30400
+## Title: Better BIS
+## Notes: My bis list
+## Version: 2.4
+## SavedVariables: 
+
+BetterBIS.lua
+Tooltip.lua
+
+lists/T7/DeathKnightBlood.lua
+lists/T7/DeathKnightFrost.lua
+lists/T7/DeathKnightUnholy.lua
+
+lists/T7/DruidBalance.lua
+lists/T7/DruidFeralDps.lua
+lists/T7/DruidFeralTank.lua
+lists/T7/DruidRestoration.lua
+
+lists/T7/HunterBeastMastery.lua
+lists/T7/HunterMarksmanship.lua
+lists/T7/HunterSurvival.lua
+
+lists/T7/MageArcane.lua
+lists/T7/MageFire.lua
+lists/T7/MageFrost.lua
+
+lists/T7/PaladinHoly.lua
+lists/T7/PaladinProtection.lua
+lists/T7/PaladinRetribution.lua
+
+lists/T7/PriestDiscipline.lua
+lists/T7/PriestHoly.lua
+lists/T7/PriestShadow.lua
+
+lists/T7/RogueAssassination.lua
+lists/T7/RogueCombat.lua
+
+lists/T7/ShamanElemental.lua
+lists/T7/ShamanEnhancement.lua
+lists/T7/ShamanRestoration.lua
+
+lists/T7/WarlockAffliction.lua
+lists/T7/WarlockDemonology.lua
+lists/T7/WarlockDestruction.lua
+
+lists/T7/WarriorArms.lua
+lists/T7/WarriorFury.lua
+lists/T7/WarriorProtection.lua

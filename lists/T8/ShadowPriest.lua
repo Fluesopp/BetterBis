@@ -1,3 +1,5 @@
+BbisSetClass('Priest', 'Shadow')
+
 BbisRegItem(   45150   ,"Razorscale","Ulduar (25)")   --   Collar of the Wyrmhunter
 BbisRegItem(   45464   ,"Hodir","Ulduar (10)")   --   Cowl of Icy Breaths
 BbisRegItem(   45497   ,"Mimiron (HM)","Ulduar (25)")   --   Crown of Luminescence

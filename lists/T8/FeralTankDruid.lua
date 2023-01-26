@@ -1,3 +1,5 @@
+BbisSetClass('Druid', 'FeralTank')
+
 BbisRegItem(   45993   ,"Mimiron (HM)","Ulduar (10)")   --   Mimiron's Flight Goggles
 BbisRegItem(   45523   ,"Yogg-Saron","Ulduar (25)")   --   Garona's Guise
 BbisRegItem(   46161   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Nightsong Headguard

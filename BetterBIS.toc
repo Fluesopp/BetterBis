@@ -7,42 +7,42 @@
 BetterBIS.lua
 Tooltip.lua
 
-lists/T8/DeathKnightBlood.lua
-lists/T8/DeathKnightFrost.lua
-lists/T8/DeathKnightUnholy.lua
+lists/T8/BloodDeathKnight.lua
+lists/T8/FrostDeathKnight.lua
+lists/T8/UnholyDeathKnight.lua
 
-lists/T8/DruidBalance.lua
-lists/T8/DruidFeralDps.lua
-lists/T8/DruidFeralTank.lua
-lists/T8/DruidRestoration.lua
+lists/T8/BalanceDruid.lua
+lists/T8/FeralDpsDruid.lua
+lists/T8/FeralTankDruid.lua
+lists/T8/RestorationDruid.lua
 
-lists/T8/HunterBeastMastery.lua
-lists/T8/HunterMarksmanship.lua
-lists/T8/HunterSurvival.lua
+lists/T8/BeastMasteryHunter.lua
+lists/T8/MarksmanshipHunter.lua
+lists/T8/SurvivalHunter.lua
 
-lists/T8/MageArcane.lua
-lists/T8/MageFire.lua
-lists/T8/MageFrost.lua
+lists/T8/ArcaneMage.lua
+lists/T8/FireMage.lua
+lists/T8/FrostMage.lua
 
-lists/T8/PaladinHoly.lua
-lists/T8/PaladinProtection.lua
-lists/T8/PaladinRetribution.lua
+lists/T8/HolyPaladin.lua
+lists/T8/ProtectionPaladin.lua
+lists/T8/RetributionPaladin.lua
 
-lists/T8/PriestDiscipline.lua
-lists/T8/PriestHoly.lua
-lists/T8/PriestShadow.lua
+lists/T8/DisciplinePriest.lua
+lists/T8/HolyPriest.lua
+lists/T8/ShadowPriest.lua
 
-lists/T8/RogueAssassination.lua
-lists/T8/RogueCombat.lua
+lists/T8/AssassinationRogue.lua
+lists/T8/CombatRogue.lua
 
-lists/T8/ShamanElemental.lua
-lists/T8/ShamanEnhancement.lua
-lists/T8/ShamanRestoration.lua
+lists/T8/ElementalShaman.lua
+lists/T8/EnhancementShaman.lua
+lists/T8/RestorationShaman.lua
 
-lists/T8/WarlockAffliction.lua
-lists/T8/WarlockDemonology.lua
-lists/T8/WarlockDestruction.lua
+lists/T8/AfflictionWarlock.lua
+lists/T8/DemonologyWarlock.lua
+lists/T8/DestructionWarlock.lua
 
-lists/T8/WarriorArms.lua
-lists/T8/WarriorFury.lua
-lists/T8/WarriorProtection.lua
+lists/T8/ArmsWarrior.lua
+lists/T8/FuryWarrior.lua
+lists/T8/ProtectionWarrior.lua

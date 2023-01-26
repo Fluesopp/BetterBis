@@ -1,3 +1,5 @@
+BbisSetClass('Priest', 'Discipline')
+
 BbisRegItem(   45497   ,"Mimiron (HM)","Ulduar (25)")   --   Crown of Luminescence
 BbisRegItem(   45289   ,"Flame Leviathan","Ulduar (10)")   --   Lifespark Visage
 BbisRegItem(   46197   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Cowl of Sanctification

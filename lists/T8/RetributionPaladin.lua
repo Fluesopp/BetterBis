@@ -1,3 +1,5 @@
+BbisSetClass('Paladin', 'Retribution')
+
 BbisRegItem(   45472   ,"Thorim (HM)","Ulduar (25)")   --   Warhelm of the Champion
 BbisRegItem(   45610   ,"Algalon the Observer","Ulduar (25)")   --   Boundless Gaze
 BbisRegItem(   45107   ,"Flame Leviathan","Ulduar (25)")   --   Iron Riveted War Helm

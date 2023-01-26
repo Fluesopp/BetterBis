@@ -1,3 +1,5 @@
+BbisSetClass('Hunter', 'Survival')
+
 BbisRegItem(   45610   ,"Algalon the Observer","Ulduar (25)")   --   Boundless Gaze
 BbisRegItem(   45517   ,"General Vezax (HM)","Ulduar (25)")   --   Pendulum of Infinity
 BbisRegItem(   45300   ,"Flame Leviathan (HM)","Ulduar (10)")   --   Mantle of Fiery Vengeance

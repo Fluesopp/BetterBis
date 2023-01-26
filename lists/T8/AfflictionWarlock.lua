@@ -1,3 +1,5 @@
+BbisSetClass('Warlock', 'Affliction')
+
 BbisRegItem(   45497   ,"Mimiron (HM)","Ulduar (25)")   --   Crown of Luminescence
 BbisRegItem(   45133   ,"Flame Leviathan (HM)","Ulduar (25)")   --   Pendant of Fiery Havoc
 BbisRegItem(   46068   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Amice of Inconceivable Horror

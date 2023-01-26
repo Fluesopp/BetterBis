@@ -1,3 +1,5 @@
+BbisSetClass('Warrior', 'Arms')
+
 BbisRegItem(   45472   ,"Thorim (HM)","Ulduar (25)")   --   Warhelm of the Champion
 BbisRegItem(   45459   ,"Hodir (HM)","Ulduar (25)")   --   Frigid Strength of Hodir
 BbisRegItem(   46037   ,"Algalon the Observer","Ulduar (10)")   --   Shoulderplates of the Celestial Watch

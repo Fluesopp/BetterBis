@@ -1,3 +1,5 @@
+BbisSetClass('Paladin', 'Holy')
+
 BbisRegItem(   46180   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Aegis Headpiece
 BbisRegItem(   45226   ,"The Assembly of Iron","Ulduar (25)")   --   Ancient Iron Heaume
 BbisRegItem(   45372   ,"Mimiron","Ulduar (10)")   --   Valorous Aegis Headpiece

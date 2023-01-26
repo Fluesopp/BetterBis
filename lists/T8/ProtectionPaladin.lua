@@ -1,3 +1,5 @@
+BbisSetClass('Paladin', 'Protection')
+
 BbisRegItem(   45935   ,"Freya","Ulduar (10)")   --   Ironbark Faceguard
 BbisRegItem(   45502   ,"General Vezax","Ulduar (25)")   --   Helm of the Faceless
 BbisRegItem(   40581   ,"Kel'Thuzad","Naxxramas (25)")   --   Valorous Redemption Faceguard

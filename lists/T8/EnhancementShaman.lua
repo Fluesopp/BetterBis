@@ -1,3 +1,5 @@
+BbisSetClass('Shaman', 'Enhancement')
+
 BbisRegItem(   45610   ,"Algalon the Observer","Ulduar (25)")   --   Boundless Gaze
 BbisRegItem(   45329   ,"The Assembly of Iron","Ulduar (10)")   --   Circlet of True Sight
 BbisRegItem(   46212   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Worldbreaker Faceguard

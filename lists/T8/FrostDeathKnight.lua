@@ -1,3 +1,5 @@
+BbisSetClass('DeathKnight', 'Frost')
+
 BbisRegItem(   45472   ,"Thorim (HM)","Ulduar (25)")   --   Warhelm of the Champion
 BbisRegItem(   45610   ,"Algalon the Observer","Ulduar (25)")   --   Boundless Gaze
 BbisRegItem(   46115   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Darkruned Helmet

@@ -1,3 +1,5 @@
+BbisSetClass('Rouge', 'Combat')
+
 BbisRegItem(   45993   ,"Mimiron (HM)","Ulduar (10)")   --   Mimiron's Flight Goggles
 BbisRegItem(   45523   ,"Yogg-Saron","Ulduar (25)")   --   Garona's Guise
 BbisRegItem(   45893   ,"Thorim","Ulduar (10)")   --   Guise of the Midgard Serpent
@@ -17,7 +19,7 @@ BbisRegItem(   45945   ,"Freya (HM)","Ulduar (10)")   --   Seed of Budding Carna
 BbisRegItem(   45517   ,"General Vezax (HM)","Ulduar (25)")   --   Pendulum of Infinity
 BbisRegItem(   45480   ,"Freya","Ulduar (25)")   --   Nymph Heart Charm
 BbisRegItem(   45459   ,"Hodir (HM)","Ulduar (25)")   --   Frigid Strength of Hodir
-BbisRegItem(   Unknown   ,"Emblem of Conquest (19)","Vendor")   --   Broach of the Wailing Night
+BbisRegItem(   45820   ,"Emblem of Conquest (19)","Vendor")   --   Broach of the Wailing Night
 BbisRegItem(   40065   ,"Anub'Rekhan (25), Grand Widow Faerlina (25), Instructor Razuvious (25), Noth the Plaguebringer (25), Patchwerk (25)","Multiple")   --   Fool's Trial
 BbisRegItem(   44664   ,"Heroic Judgement at the Eye of Eternity","Quest Reward")   --   Favor of the Dragon Queen
 BbisRegItem(   39146   ,"Anub'Rekhan (10), Gluth (10)","Multiple")   --   Collar of Dissolution

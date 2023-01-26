@@ -1,3 +1,5 @@
+BbisSetClass('Shaman', 'Restoration')
+
 BbisRegItem(   46201   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Worldbreaker Headpiece
 BbisRegItem(   45497   ,"Mimiron (HM)","Ulduar (25)")   --   Crown of Luminescence
 BbisRegItem(   45687   ,"XT-002 Deconstructor","Ulduar (10)")   --   Helm of Veiled Energies

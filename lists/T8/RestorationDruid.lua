@@ -1,3 +1,5 @@
+BbisSetClass('Druid', 'Restoration')
+
 BbisRegItem(   46184   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Nightsong Headpiece
 BbisRegItem(   45439   ,"Auriaya","Ulduar (25)")   --   Unwavering Stare
 BbisRegItem(   45864   ,"Auriaya","Ulduar (10)")   --   Cover of the Keepers
@@ -29,7 +31,7 @@ BbisRegItem(   40374   ,"Sapphiron","Naxxramas (25)")   --   Cosmic Lights
 BbisRegItem(   39232   ,"Maexxna (10), Gluth (10)","Multiple")   --   Pendant of Lost Vocations
 BbisRegItem(   42023   ,"38k Honor","PvP")   --   Hateful Gladiator's Pendant of Subjugation
 BbisRegItem(   37683   ,"Salramm the Fleshcrafter","Culling of Stratholme (H)")   --   Necromancer's Amulet
-BbisRegItem(   Unknown   ,"Akil'zon","Zul'Aman")   --   Brooch of Nature's Mercy
+BbisRegItem(   33281   ,"Akil'zon","Zul'Aman")   --   Brooch of Nature's Mercy
 BbisRegItem(   37290   ,"Trash Drop","Utgarde Keep (H)")   --   Dragon Prow Amulet
 BbisRegItem(   42339   ,"Trainer (380)","Jewelcrafting")   --   Blood Sun Necklace
 BbisRegItem(   36988   ,"Loken","Halls of Lightning")   --   Chaotic Spiral Amulet

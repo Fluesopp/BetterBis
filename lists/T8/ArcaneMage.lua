@@ -1,3 +1,5 @@
+BbisSetClass('Mage', 'Arcane')
+
 BbisRegItem(   45497   ,"Mimiron (HM)","Ulduar (25)")   --   Crown of Luminescence
 BbisRegItem(   45243   ,"The Assembly of Iron (HM)","Ulduar (25)")   --   Sapphire Amulet of Renewal
 BbisRegItem(   46134   ,"Yogg-Saron","Ulduar (25)")   --   Conqueror's Kirin Tor Shoulderpads

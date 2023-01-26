@@ -1,3 +1,5 @@
+BbisSetClass('Mage', 'Frost')
+
 BbisRegItem(   45150   ,"Razorscale","Ulduar (25)")   --   Collar of the Wyrmhunter
 BbisRegItem(   46129   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Kirin Tor Hood
 BbisRegItem(   45365   ,"Mimiron","Ulduar (10)")   --   Valorous Kirin Tor Hood

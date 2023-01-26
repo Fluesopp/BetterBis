@@ -1,3 +1,5 @@
+BbisSetClass('Druid', 'FeralDps')
+
 BbisRegItem(   45993   ,"Mimiron (HM)","Ulduar (10)")   --   Mimiron's Flight Goggles
 BbisRegItem(   45523   ,"Yogg-Saron","Ulduar (25)")   --   Garona's Guise
 BbisRegItem(   45893   ,"Thorim","Ulduar (10)")   --   Guise of the Midgard Serpent

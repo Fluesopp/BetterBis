@@ -1,3 +1,5 @@
+BbisSetClass('DeathKnight', 'Blood')
+
 BbisRegItem(   46120   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Darkruned Faceguard
 BbisRegItem(   45502   ,"General Vezax","Ulduar (25)")   --   Helm of the Faceless
 BbisRegItem(   45935   ,"Freya","Ulduar (10)")   --   Ironbark Faceguard

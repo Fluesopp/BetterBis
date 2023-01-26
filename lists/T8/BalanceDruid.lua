@@ -1,3 +1,5 @@
+BbisSetClass('Druid', 'Balance')
+
 BbisRegItem(   45497   ,"Mimiron (HM)","Ulduar (25)")   --   Crown of Luminescence
 BbisRegItem(   45133   ,"Flame Leviathan (HM)","Ulduar (25)")   --   Pendant of Fiery Havoc
 BbisRegItem(   46196   ,"Yogg-Saron","Ulduar (25)")   --   Conqueror's Nightsong Mantle

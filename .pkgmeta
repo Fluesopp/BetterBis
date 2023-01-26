@@ -1,2 +1,11 @@
 package-as: BetterBis
 tag: release
+ignore:
+  - README.md
+  - WowTbc
+move-folders:
+  BetterBis/lists: lists
+move-files:
+  BetterBis/BetterBis.lua: BetterBis.lua
+  BetterBis/BetterBis.toc: BetterBis.toc
+  BetterBis/Tooltip.lua: Tooltip.lua

@@ -33,7 +33,7 @@ BbisRegItem(   40681   ,"Emblem of Heroism (25)","Vendor")   --   Lattice Choker
 BbisRegItem(   42647   ,"BoP Pattern (440)","Jewelcrafting")   --   Titanium Spellshock Necklace
 BbisRegItem(   42023   ,"38k Honor","PvP")   --   Hateful Gladiator's Pendant of Subjugation
 BbisRegItem(   37683   ,"Salramm the Fleshcrafter","Culling of Stratholme (H)")   --   Necromancer's Amulet
-BbisRegItem(   Unknown   ,"Akil'zon","Zul'Aman")   --   Brooch of Nature's Mercy
+BbisRegItem(   33281   ,"Akil'zon","Zul'Aman")   --   Brooch of Nature's Mercy
 BbisRegItem(   37141   ,"Anomalus","The Nexus (H)")   --   Amulet of Dazzling Light
 BbisRegItem(   46068   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Amice of Inconceivable Horror
 BbisRegItem(   46190   ,"Yogg-Saron","Ulduar (25)")   --   Conqueror's Shoulderpads of Sanctification

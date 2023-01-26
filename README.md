@@ -7,6 +7,8 @@ Displays BIS list on every item, ex hovering over head item will display the hea
 
 ### Supports
 All classes and spec's since version 2.1  
+Currently support up to T8
 
 ### Disclamer
-If you don't agree with the list, its the list i follow. I have been looking at different lists and they all are different.
+If you don't agree with the list, its the list i follow. I have been looking at different lists and they all are different.  
+There may be errors to the lists, but should be tested.

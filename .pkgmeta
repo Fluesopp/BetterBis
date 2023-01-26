@@ -1,8 +1,9 @@
 package-as: BetterBis
 tag: release
+enable-nolib-creation: no
 ignore:
   - README.md
-  - WowTbc
+  - .pkgmeta
 move-folders:
   BetterBis/lists: lists
 move-files:

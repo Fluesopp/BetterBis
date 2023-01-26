@@ -16,7 +16,7 @@ BbisRegItem(   43403   ,"Zuramat the Obliterator","Violet Hold (H)")   --   Shro
 BbisRegItem(   45459   ,"Hodir (HM)","Ulduar (25)")   --   Frigid Strength of Hodir
 BbisRegItem(   45945   ,"Freya (HM)","Ulduar (10)")   --   Seed of Budding Carnage
 BbisRegItem(   45517   ,"General Vezax (HM)","Ulduar (25)")   --   Pendulum of Infinity
-BbisRegItem(   Unknown   ,"Emblem of Conquest (19)","Vendor")   --   Broach of the Wailing Night
+BbisRegItem(   45820   ,"Emblem of Conquest (19)","Vendor")   --   Broach of the Wailing Night
 BbisRegItem(   45480   ,"Freya","Ulduar (25)")   --   Nymph Heart Charm
 BbisRegItem(   44664   ,"Heroic Judgement at the Eye of Eternity","Quest Reward")   --   Favor of the Dragon Queen
 BbisRegItem(   40065   ,"Anub'Rekhan (25), Grand Widow Faerlina (25), Instructor Razuvious (25), Noth the Plaguebringer (25), Patchwerk (25)","Multiple")   --   Fool's Trial
@@ -177,7 +177,7 @@ BbisRegItem(   45522   ,"Yogg-Saron","Ulduar (25)")   --   Blood of the Old God
 BbisRegItem(   45609   ,"Algalon the Observer","Ulduar (25)")   --   Comet's Trail
 BbisRegItem(   44434   ,"Algalon the Observer","Ulduar (10)")   --   Dark Matter
 BbisRegItem(   45286   ,"Flame Leviathan","Ulduar (10)")   --   Pyrite Infuser
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
+BbisRegItem(   44253   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   40256   ,"Maexxna (25), Gothik the Harvester (25), Grobbulus (25), Heigan the Unclean (25)","Multiple")   --   Grim Toll
 BbisRegItem(   40431   ,"Sartharion","Obsidian Sanctum (25)")   --   Fury of the Five Flights
 BbisRegItem(   40684   ,"Emblem of Heroism (40)","Vendor")   --   Mirror of Truth
@@ -186,7 +186,6 @@ BbisRegItem(   37166   ,"Keristrasza","The Nexus (H)")   --   Sphere of Red Drag
 BbisRegItem(   37723   ,"King Dred","Drak'Tharon Keep (H)")   --   Incisor Fragment
 BbisRegItem(   37390   ,"King Ymiron","Utgarde Pinnacle (H)")   --   Meteorite Whetstone
 BbisRegItem(   34427   ,"M'uru","Sunwell Plateau")   --   Blackened Naaru Sliver
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   45613   ,"Freya (25 HM), Algalon the Observer (25)","Multiple")   --   Dreambinder
 BbisRegItem(   45533   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Dark Edge of Depravity
 BbisRegItem(   45544   ,"General Vezax (HM)","Ulduar (10)")   --   Tortured Earth

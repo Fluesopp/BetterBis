@@ -172,7 +172,6 @@ BbisRegItem(   44434   ,"Algalon the Observer","Ulduar (10)")   --   Dark Matter
 BbisRegItem(   45263   ,"Kologarn","Ulduar (25)")   --   Wrathstone
 BbisRegItem(   45931   ,"Thorim (HM)","Ulduar (10)")   --   Mjolnir Runestone
 BbisRegItem(   40256   ,"Maexxna (25), Gothik the Harvester (25), Grobbulus (25), Heigan the Unclean (25)","Multiple")   --   Grim Toll
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
 BbisRegItem(   40684   ,"Emblem of Heroism (40)","Vendor")   --   Mirror of Truth
 BbisRegItem(   40431   ,"Sartharion","Obsidian Sanctum (25)")   --   Fury of the Five Flights
 BbisRegItem(   40531   ,"Malygos","Eye of Eternity (25)")   --   Mark of Norgannon
@@ -180,14 +179,13 @@ BbisRegItem(   37166   ,"Keristrasza","The Nexus (H)")   --   Sphere of Red Drag
 BbisRegItem(   34427   ,"M'uru","Sunwell Plateau")   --   Blackened Naaru Sliver
 BbisRegItem(   37390   ,"King Ymiron","Utgarde Pinnacle (H)")   --   Meteorite Whetstone
 BbisRegItem(   43573   ,"BoE World Drop","Auction House")   --   Tears of Bitter Anguish
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
 BbisRegItem(   45484   ,"Freya (HM)","Ulduar (25)")   --   Bladetwister
 BbisRegItem(   45930   ,"Thorim (HM)","Ulduar (10)")   --   Combatant's Bootblade
 BbisRegItem(   46024   ,"Yogg-Saron","Ulduar (10)")   --   Kingsbane
 BbisRegItem(   45246   ,"XT-002 Deconstructor","Ulduar (25)")   --   Golem-Shard Sticker
 BbisRegItem(   39714   ,"Anub'Rekhan","Naxxramas (25)")   --   Webbed Death
 BbisRegItem(   37856   ,"Trash Drop","Halls of Lightning (H)")   --   Librarian's Paper Cutter
-BbisRegItem(   Unknown   ,"Sapphiron","Naxxramas (25)")   --   Murder
+BbisRegItem(   40368   ,"Sapphiron","Naxxramas (25)")   --   Murder
 BbisRegItem(   39427   ,"Trash Drop","Naxxramas (10)")   --   Omen of Ruin
 BbisRegItem(   37037   ,"Svala Sorrowgrave","Utgarde Pinnacle")   --   Ritualistic Athame
 BbisRegItem(   44166   ,"Kirin Tor - Honored","Reputation")   --   Lightblade Rivener
@@ -199,7 +197,6 @@ BbisRegItem(   45448   ,"The Assembly of Iron (HM)","Ulduar (10)")   --   Perilo
 BbisRegItem(   45605   ,"Trash Drop","Ulduar (25)")   --   Daschal's Bite
 BbisRegItem(   40386   ,"Kel'Thuzad","Naxxramas (25)")   --   Sinister Revenge
 BbisRegItem(   40281   ,"Grobbulus","Naxxramas (25)")   --   Twilight Mist
-BbisRegItem(   Unknown   ,"Sapphiron","Naxxramas (25)")   --   Murder
 BbisRegItem(   39420   ,"Kel'Thuzad","Naxxramas (10)")   --   Anarchy
 BbisRegItem(   39140   ,"Anub'Rekhan","Naxxramas (10)")   --   Knife of Incision
 BbisRegItem(   37667   ,"Sjonnir The Ironshaper","Halls of Stone (H)")   --   The Fleshshaper

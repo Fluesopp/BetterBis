@@ -74,12 +74,13 @@ def writeFile(classspec):
         except:
             pass
 
-    print(item+" Done!")
+    print(filename+" Done!")
     f.close()
     thread[item].join()
 
 
 classspec = [
+    
             "blood-tank-death-knight",
             "frost-death-knight",
             "unholy-death-knight",
@@ -109,6 +110,11 @@ classspec = [
             "fury-warrior",
             "protection-warrior",
             ]
+
+classspec = [
+    "balance-druid",
+    "affliction-warlock"
+]
 
 thread = {}
 for item in classspec:

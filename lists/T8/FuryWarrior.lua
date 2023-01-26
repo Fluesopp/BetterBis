@@ -20,7 +20,7 @@ BbisRegItem(   45945   ,"Freya (HM)","Ulduar (10)")   --   Seed of Budding Carna
 BbisRegItem(   45517   ,"General Vezax (HM)","Ulduar (25)")   --   Pendulum of Infinity
 BbisRegItem(   27757   ,"Flame Leviathan","Ulduar (10)")   --   Might of the Leviathan
 BbisRegItem(   45819   ,"Emblem of Conquest (19)","Vendor")   --   Spiked Battleguard Choker
-BbisRegItem(   Unknown   ,"Emblem of Conquest (19)","Vendor")   --   Broach of the Wailing Night
+BbisRegItem(   45820   ,"Emblem of Conquest (19)","Vendor")   --   Broach of the Wailing Night
 BbisRegItem(   44664   ,"Heroic Judgement at the Eye of Eternity","Quest Reward")   --   Favor of the Dragon Queen
 BbisRegItem(   40065   ,"Anub'Rekhan (25), Grand Widow Faerlina (25), Instructor Razuvious (25), Noth the Plaguebringer (25), Patchwerk (25)","Multiple")   --   Fool's Trial
 BbisRegItem(   44659   ,"Judgement at the Eye of Eternity","Quest Reward")   --   Pendant of the Dragonsworn
@@ -197,7 +197,7 @@ BbisRegItem(   45522   ,"Yogg-Saron","Ulduar (25)")   --   Blood of the Old God
 BbisRegItem(   45286   ,"Flame Leviathan","Ulduar (10)")   --   Pyrite Infuser
 BbisRegItem(   45609   ,"Algalon the Observer","Ulduar (25)")   --   Comet's Trail
 BbisRegItem(   44434   ,"Algalon the Observer","Ulduar (10)")   --   Dark Matter
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
+BbisRegItem(   42987   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   40531   ,"Malygos","Eye of Eternity (25)")   --   Mark of Norgannon
 BbisRegItem(   40684   ,"Emblem of Heroism (40)","Vendor")   --   Mirror of Truth
 BbisRegItem(   39257   ,"Loatheb","Naxxramas (10)")   --   Loatheb's Shadow
@@ -205,7 +205,6 @@ BbisRegItem(   37166   ,"Keristrasza","The Nexus (H)")   --   Sphere of Red Drag
 BbisRegItem(   37390   ,"King Ymiron","Utgarde Pinnacle (H)")   --   Meteorite Whetstone
 BbisRegItem(   37723   ,"King Dred","Drak'Tharon Keep (H)")   --   Incisor Fragment
 BbisRegItem(   42990   ,"Undeath Deck","Darkmoon Faire")   --   Darkmoon Card: Death
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   45516   ,"General Vezax (HM)","Ulduar (25)")   --   Voldrethar, Dark Blade of Oblivion
 BbisRegItem(   45533   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Dark Edge of Depravity
 BbisRegItem(   46067   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Hammer of Crushing Whispers
@@ -237,7 +236,7 @@ BbisRegItem(   40385   ,"Kel'Thuzad","Naxxramas (25)")   --   Envoy of Mortality
 BbisRegItem(   40265   ,"Patchwerk","Naxxramas (25)")   --   Arrowsong
 BbisRegItem(   40346   ,"The Four Horsemen","Naxxramas (25)")   --   Final Voyage
 BbisRegItem(   39296   ,"Instructor Razuvious","Naxxramas (10)")   --   Accursed Bow of the Elite
-BbisRegItem(   Unknown   ,"Kel'Thuzad","Naxxramas (10)")   --   Nerubian Conquerer
+BbisRegItem(   39419   ,"Kel'Thuzad","Naxxramas (10)")   --   Nerubian Conquerer
 BbisRegItem(   43612   ,"Pickpocket (Rogue)","Auction House")   --   Spineslicer
 BbisRegItem(   37191   ,"Ingvar the Plunderer","Utgarde Keep (H)")   --   Drake-Mounted Crossbow
 BbisRegItem(   25278   ,"Trainer (450)","Engineering")   --   Nesingwary 4000

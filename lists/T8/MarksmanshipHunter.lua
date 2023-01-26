@@ -177,7 +177,7 @@ BbisRegItem(   45931   ,"Thorim (HM)","Ulduar (10)")   --   Mjolnir Runestone
 BbisRegItem(   44434   ,"Algalon the Observer","Ulduar (10)")   --   Dark Matter
 BbisRegItem(   45522   ,"Yogg-Saron","Ulduar (25)")   --   Blood of the Old God
 BbisRegItem(   45263   ,"Kologarn","Ulduar (25)")   --   Wrathstone
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
+BbisRegItem(   44253   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
 BbisRegItem(   37166   ,"Keristrasza","The Nexus (H)")   --   Sphere of Red Dragon's Blood
 BbisRegItem(   40684   ,"Emblem of Heroism (40)","Vendor")   --   Mirror of Truth
 BbisRegItem(   39257   ,"Loatheb","Naxxramas (10)")   --   Loatheb's Shadow
@@ -185,7 +185,6 @@ BbisRegItem(   40431   ,"Sartharion","Obsidian Sanctum (25)")   --   Fury of the
 BbisRegItem(   37723   ,"King Dred","Drak'Tharon Keep (H)")   --   Incisor Fragment
 BbisRegItem(   42990   ,"Undeath Deck","Darkmoon Faire")   --   Darkmoon Card: Death
 BbisRegItem(   37390   ,"King Ymiron","Utgarde Pinnacle (H)")   --   Meteorite Whetstone
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
 BbisRegItem(   45533   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Dark Edge of Depravity
 BbisRegItem(   45544   ,"General Vezax (HM)","Ulduar (10)")   --   Tortured Earth
 BbisRegItem(   46036   ,"General Vezax (HM)","Ulduar (10)")   --   Void Sabre
@@ -210,14 +209,14 @@ BbisRegItem(   45484   ,"Freya (HM)","Ulduar (25)")   --   Bladetwister
 BbisRegItem(   45494   ,"Mimiron (HM)","Ulduar (25)")   --   Delirium's Touch
 BbisRegItem(   40239   ,"Loatheb","Naxxramas (25)")   --   The Hand of Nerub
 BbisRegItem(   39420   ,"Kel'Thuzad","Naxxramas (10)")   --   Anarchy
-BbisRegItem(   Unknown   ,"Emblem of Heroism (50)","Vendor")   --   Pride
+BbisRegItem(   40704   ,"Emblem of Heroism (50)","Vendor")   --   Pride
 BbisRegItem(   45570   ,"Thorim (25 HM), Algalon the Observer (25)","Multiple")   --   Skyforge Crossbow
 BbisRegItem(   45870   ,"XT-002 Deconstructor (HM)","Ulduar (10)")   --   Magnetized Projectile Emitter
 BbisRegItem(   45327   ,"Auriaya","Ulduar (25)")   --   Siren's Cry
 BbisRegItem(   45261   ,"Kologarn","Ulduar (25)")   --   Giant's Bane
 BbisRegItem(   45137   ,"Razorscale","Ulduar (25)")   --   Veranus' Bane
 BbisRegItem(   40385   ,"Kel'Thuzad","Naxxramas (25)")   --   Envoy of Mortality
-BbisRegItem(   Unknown   ,"Kel'Thuzad","Naxxramas (10)")   --   Nerubian Conquerer
+BbisRegItem(   39419   ,"Kel'Thuzad","Naxxramas (10)")   --   Nerubian Conquerer
 BbisRegItem(   40265   ,"Patchwerk","Naxxramas (25)")   --   Arrowsong
 BbisRegItem(   40346   ,"The Four Horsemen","Naxxramas (25)")   --   Final Voyage
 BbisRegItem(   42485   ,"4.5k Arena Points","PvP")   --   Deadly Gladiator's Rifle

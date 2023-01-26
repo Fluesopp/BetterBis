@@ -178,9 +178,8 @@ BbisRegItem(   42341   ,"Trainer (400)","Jewelcrafting")   --   Figurine - Ruby 
 BbisRegItem(   40257   ,"Maexxna (25), Gothik the Harvester (25), Grobbulus (25), Heigan the Unclean (25)","Multiple")   --   Defender's Code
 BbisRegItem(   39292   ,"Thaddius","Naxxramas (10)")   --   Repelling Charge
 BbisRegItem(   36993   ,"Loken","Halls of Lightning")   --   Seal of the Pantheon
-BbisRegItem(   Unknown   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
+BbisRegItem(   44323   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
 BbisRegItem(   40767   ,"Trainer (420)","Engineering")   --   Sonic Booster
-BbisRegItem(   Unknown   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
 BbisRegItem(   45442   ,"XT-002 Deconstructor (HM)","Ulduar (25)")   --   Sorthalis, Hammer of the Watchers
 BbisRegItem(   5182   ,"Hodir (HM)","Ulduar (10)")   --   Shiver
 BbisRegItem(   46036   ,"General Vezax (HM)","Ulduar (10)")   --   Void Sabre
@@ -222,7 +221,7 @@ BbisRegItem(   41168   ,"Trainer (450)","Engineering")   --   Armor Plated Comba
 BbisRegItem(   40265   ,"Patchwerk","Naxxramas (25)")   --   Arrowsong
 BbisRegItem(   40385   ,"Kel'Thuzad","Naxxramas (25)")   --   Envoy of Mortality
 BbisRegItem(   40190   ,"Noth the Plaguebringer","Naxxramas (25)")   --   Spinning Fate
-BbisRegItem(   Unknown   ,"Kel'Thuzad","Naxxramas (10)")   --   Nerubian Conquerer
+BbisRegItem(   39419   ,"Kel'Thuzad","Naxxramas (10)")   --   Nerubian Conquerer
 BbisRegItem(   43612   ,"Pickpocket (Rogue)","Auction House")   --   Spineslicer
 BbisRegItem(   40716   ,"Emblem of Heroism (15)","Vendor")   --   Lillehoff's Winged Blades
 BbisRegItem(   44118   ,"Frenzyheart Tribe - Revered","Reputation")   --   Stolen Vrykul Harpoon

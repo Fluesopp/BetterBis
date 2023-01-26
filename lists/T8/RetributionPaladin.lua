@@ -187,7 +187,7 @@ BbisRegItem(   37642   ,"Gal'darah","Gundrak (H)")   --   Hemorrhaging Circle
 BbisRegItem(   37685   ,"Chrono-Lord Epoch","Culling of Stratholme (H)")   --   Mobius Band
 BbisRegItem(   42642   ,"BoP Pattern (430)","Jewelcrafting")   --   Titanium Impact Band
 BbisRegItem(   45522   ,"Yogg-Saron","Ulduar (25)")   --   Blood of the Old God
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
+BbisRegItem(   42987   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   45286   ,"Flame Leviathan","Ulduar (10)")   --   Pyrite Infuser
 BbisRegItem(   45609   ,"Algalon the Observer","Ulduar (25)")   --   Comet's Trail
 BbisRegItem(   44434   ,"Algalon the Observer","Ulduar (10)")   --   Dark Matter
@@ -200,7 +200,6 @@ BbisRegItem(   40684   ,"Emblem of Heroism (40)","Vendor")   --   Mirror of Trut
 BbisRegItem(   37723   ,"King Dred","Drak'Tharon Keep (H)")   --   Incisor Fragment
 BbisRegItem(   44914   ,"Wintergrasp Mark of Honor (25)","PvP")   --   Anvil of Titans
 BbisRegItem(   42990   ,"Undeath Deck","Darkmoon Faire")   --   Darkmoon Card: Death
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   45533   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Dark Edge of Depravity
 BbisRegItem(   45516   ,"General Vezax (HM)","Ulduar (25)")   --   Voldrethar, Dark Blade of Oblivion
 BbisRegItem(   46067   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Hammer of Crushing Whispers

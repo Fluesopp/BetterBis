@@ -184,14 +184,13 @@ BbisRegItem(   43993   ,"Sartharion 2 Drakes","Obsidian Sanctum (10)")   --   Gr
 BbisRegItem(   39401   ,"Sapphiron","Naxxramas (10)")   --   Circle of Death
 BbisRegItem(   40717   ,"Emblem of Valor (25)","Vendor")   --   Ring of Invincibility
 BbisRegItem(   43251   ,"BoP Pattern (420)","Jewelcrafting")   --   Ring of Scarlet Shadows
-BbisRegItem(   Unknown   ,"Tiny Titanium Lockbox","Fishing")   --   The 5 Ring
+BbisRegItem(   45859   ,"Tiny Titanium Lockbox","Fishing")   --   The 5 Ring
 BbisRegItem(   44935   ,"8500g","Vendor")   --   Ring of the Kirin Tor
 BbisRegItem(   42642   ,"BoP Pattern (430)","Jewelcrafting")   --   Titanium Impact Band
 BbisRegItem(   40586   ,"8500g","Vendor")   --   Band of the Kirin Tor
 BbisRegItem(   37642   ,"Gal'darah","Gundrak (H)")   --   Hemorrhaging Circle
-BbisRegItem(   Unknown   ,"Tiny Titanium Lockbox","Fishing")   --   The 5 Ring
 BbisRegItem(   45931   ,"Thorim (HM)","Ulduar (10)")   --   Mjolnir Runestone
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
+BbisRegItem(   42987   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   45609   ,"Algalon the Observer","Ulduar (25)")   --   Comet's Trail
 BbisRegItem(   44434   ,"Algalon the Observer","Ulduar (10)")   --   Dark Matter
 BbisRegItem(   40256   ,"Maexxna (25), Gothik the Harvester (25), Grobbulus (25), Heigan the Unclean (25)","Multiple")   --   Grim Toll
@@ -203,7 +202,6 @@ BbisRegItem(   37166   ,"Keristrasza","The Nexus (H)")   --   Sphere of Red Drag
 BbisRegItem(   37390   ,"King Ymiron","Utgarde Pinnacle (H)")   --   Meteorite Whetstone
 BbisRegItem(   37723   ,"King Dred","Drak'Tharon Keep (H)")   --   Incisor Fragment
 BbisRegItem(   43573   ,"BoE World Drop","Auction House")   --   Tears of Bitter Anguish
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   46097   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Caress of Insanity
 BbisRegItem(   45947   ,"Freya (HM)","Ulduar (10)")   --   Serilas, Blood Blade of Invar One-Arm
 BbisRegItem(   45463   ,"Thorim","Ulduar (25)")   --   Vulmir, the Northern Tempest
@@ -219,9 +217,8 @@ BbisRegItem(   41383   ,"Trainer (440)","Blacksmithing")   --   Titansteel Bonec
 BbisRegItem(   43611   ,"Pickpocket (Rogue)","Auction House")   --   Krol Cleaver
 BbisRegItem(   44250   ,"Knights of the Ebon Blade - Revered","Reputation")   --   Reaper of Dark Souls
 BbisRegItem(   37235   ,"Anub'arak","Azjol-Nerub (H)")   --   Crypt Lord's Deft Blade
-BbisRegItem(   Unknown   ,"Lavanthor","Violet Hold (H)")   --   The Key
+BbisRegItem(   37871   ,"Lavanthor","Violet Hold (H)")   --   The Key
 BbisRegItem(   43407   ,"Erekem","Violet Hold (H)")   --   Stormstrike Mace
-BbisRegItem(   Unknown   ,"Lavanthor","Violet Hold (H)")   --   The Key
 BbisRegItem(   40207   ,"Heigan the Unclean (25), Emblem of Valor (25)","Multiple")   --   Sigil of Awareness
 BbisRegItem(   45254   ,"XT-002 Deconstructor","Ulduar (25)")   --   Sigil of the Vengeful Heart
 BbisRegItem(   40715   ,"Emblem of Heroism (15)","Vendor")   --   Sigil of Haunted Dreams

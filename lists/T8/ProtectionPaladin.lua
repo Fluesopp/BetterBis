@@ -176,10 +176,9 @@ BbisRegItem(   37220   ,"Hadronox","Azjol-Nerub (H)")   --   Essence of Gossamer
 BbisRegItem(   42341   ,"Trainer (400)","Jewelcrafting")   --   Figurine - Ruby Hare
 BbisRegItem(   40257   ,"Maexxna (25), Gothik the Harvester (25), Grobbulus (25), Heigan the Unclean (25)","Multiple")   --   Defender's Code
 BbisRegItem(   39292   ,"Thaddius","Naxxramas (10)")   --   Repelling Charge
-BbisRegItem(   Unknown   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
+BbisRegItem(   44323   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
 BbisRegItem(   40767   ,"Trainer (420)","Engineering")   --   Sonic Booster
 BbisRegItem(   36993   ,"Loken","Halls of Lightning")   --   Seal of the Pantheon
-BbisRegItem(   Unknown   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
 BbisRegItem(   46097   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Caress of Insanity
 BbisRegItem(   45947   ,"Freya (HM)","Ulduar (10)")   --   Serilas, Blood Blade of Invar One-Arm
 BbisRegItem(   45463   ,"Thorim","Ulduar (25)")   --   Vulmir, the Northern Tempest

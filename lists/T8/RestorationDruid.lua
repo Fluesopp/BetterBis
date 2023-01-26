@@ -219,8 +219,8 @@ BbisRegItem(   37718   ,"Novos the Summoner","Drak'Tharon Keep (H)")   --   Temp
 BbisRegItem(   44210   ,"Trainer (400)","Inscription")   --   Faces of Doom
 BbisRegItem(   37051   ,"Gortok Palehoof","Utgarde Pinnacle")   --   Seal of Valgarde
 BbisRegItem(   37889   ,"Trash Drop","Violet Hold (H)")   --   Prison Manifest
-BbisRegItem(   Unknown   ,"Gothik the Harvester (25), Emblem of Valor (25)","Multiple")   --   Idol of Awakening
-BbisRegItem(   Unknown   ,"Badge of Justice (20)","Vendor")   --   Idol of Budding Life
-BbisRegItem(   Unknown   ,"The Ultimate Bloodsport","Quest Reward")   --   Harold's Rejuvenating Broach
+BbisRegItem(   40342   ,"Gothik the Harvester (25), Emblem of Valor (25)","Multiple")   --   Idol of Awakening
+BbisRegItem(   33508   ,"Badge of Justice (20)","Vendor")   --   Idol of Budding Life
+BbisRegItem(   25643   ,"The Ultimate Bloodsport","Quest Reward")   --   Harold's Rejuvenating Broach
 BbisRegItem(   38366   ,"Venture Coins (30)","PvP")   --   Idol of Pure Thoughts
 BbisRegItem(   46138   ,"Trash Drop","Ulduar (25)")   --   Idol of the Flourishing Life

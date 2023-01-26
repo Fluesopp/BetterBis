@@ -220,10 +220,10 @@ BbisRegItem(   46031   ,"Yogg-Saron","Ulduar (10)")   --   Touch of Madness
 BbisRegItem(   39468   ,"Trash Drop","Naxxramas (10)")   --   The Stray
 BbisRegItem(   40386   ,"Kel'Thuzad","Naxxramas (25)")   --   Sinister Revenge
 BbisRegItem(   40189   ,"Noth the Plaguebringer","Naxxramas (25)")   --   Angry Dread
-BbisRegItem(   Unknown   ,"Lavanthor","Violet Hold (H)")   --   The Key
+BbisRegItem(   37871   ,"Lavanthor","Violet Hold (H)")   --   The Key
 BbisRegItem(   42208   ,"3.15k Arena Points","PvP")   --   Deadly Gladiator's Cleaver
 BbisRegItem(   40281   ,"Grobbulus","Naxxramas (25)")   --   Twilight Mist
-BbisRegItem(   Unknown   ,"Emblem of Heroism (50)","Vendor")   --   Pride
+BbisRegItem(   40704   ,"Emblem of Heroism (50)","Vendor")   --   Pride
 BbisRegItem(   43407   ,"Erekem","Violet Hold (H)")   --   Stormstrike Mace
 BbisRegItem(   34346   ,"Trash Drop","Sunwell Plateau")   --   Mounting Vengeance
 BbisRegItem(   44193   ,"The Sons of Hodir - Revered","Reputation")   --   Broken Stalactite

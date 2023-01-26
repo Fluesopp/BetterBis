@@ -175,10 +175,9 @@ BbisRegItem(   42341   ,"Trainer (400)","Jewelcrafting")   --   Figurine - Ruby 
 BbisRegItem(   37220   ,"Hadronox","Azjol-Nerub (H)")   --   Essence of Gossamer
 BbisRegItem(   40257   ,"Maexxna (25), Gothik the Harvester (25), Grobbulus (25), Heigan the Unclean (25)","Multiple")   --   Defender's Code
 BbisRegItem(   39292   ,"Thaddius","Naxxramas (10)")   --   Repelling Charge
-BbisRegItem(   Unknown   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
+BbisRegItem(   44323   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
 BbisRegItem(   40767   ,"Trainer (420)","Engineering")   --   Sonic Booster
 BbisRegItem(   36993   ,"Loken","Halls of Lightning")   --   Seal of the Pantheon
-BbisRegItem(   Unknown   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
 BbisRegItem(   45533   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Dark Edge of Depravity
 BbisRegItem(   46067   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Hammer of Crushing Whispers
 BbisRegItem(   45442   ,"XT-002 Deconstructor (HM)","Ulduar (25)")   --   Sorthalis, Hammer of the Watchers
@@ -200,6 +199,6 @@ BbisRegItem(   37179   ,"Prince Keleseth","Utgarde Keep (H)")   --   Infantry As
 BbisRegItem(   45892   ,"Thorim","Ulduar (10)")   --   Legacy of Thunder
 BbisRegItem(   41383   ,"Trainer (440)","Blacksmithing")   --   Titansteel Bonecrusher
 BbisRegItem(   36984   ,"Volkhan","Halls of Lightning")   --   Eternally Folded Blade
-BbisRegItem(   Unknown   ,"Razorscale","Ulduar (25)")   --   Sigil of Deflection
+BbisRegItem(   45144   ,"Razorscale","Ulduar (25)")   --   Sigil of Deflection
 BbisRegItem(   40714   ,"Emblem of Heroism (15)","Vendor")   --   Sigil of the Unfaltering Knight
 BbisRegItem(   40822   ,"Venture Coins (30)","PvP")   --   Sigil of the Frozen Conscience

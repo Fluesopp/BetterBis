@@ -174,14 +174,12 @@ BbisRegItem(   45609   ,"Algalon the Observer","Ulduar (25)")   --   Comet's Tra
 BbisRegItem(   44434   ,"Algalon the Observer","Ulduar (10)")   --   Dark Matter
 BbisRegItem(   45931   ,"Thorim (HM)","Ulduar (10)")   --   Mjolnir Runestone
 BbisRegItem(   40256   ,"Maexxna (25), Gothik the Harvester (25), Grobbulus (25), Heigan the Unclean (25)","Multiple")   --   Grim Toll
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
 BbisRegItem(   40684   ,"Emblem of Heroism (40)","Vendor")   --   Mirror of Truth
 BbisRegItem(   40431   ,"Sartharion","Obsidian Sanctum (25)")   --   Fury of the Five Flights
 BbisRegItem(   37166   ,"Keristrasza","The Nexus (H)")   --   Sphere of Red Dragon's Blood
 BbisRegItem(   34427   ,"M'uru","Sunwell Plateau")   --   Blackened Naaru Sliver
 BbisRegItem(   37390   ,"King Ymiron","Utgarde Pinnacle (H)")   --   Meteorite Whetstone
 BbisRegItem(   43573   ,"BoE World Drop","Auction House")   --   Tears of Bitter Anguish
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
 BbisRegItem(   45132   ,"Flame Leviathan (HM)","Ulduar (25)")   --   Golden Saronite Dragon
 BbisRegItem(   45449   ,"The Assembly of Iron (HM)","Ulduar (10)")   --   The Masticator
 BbisRegItem(   45947   ,"Freya (HM)","Ulduar (10)")   --   Serilas, Blood Blade of Invar One-Arm
@@ -209,7 +207,7 @@ BbisRegItem(   22806   ,"Razorscale","Ulduar (25)")   --   Remorse
 BbisRegItem(   39714   ,"Anub'Rekhan","Naxxramas (25)")   --   Webbed Death
 BbisRegItem(   37856   ,"Trash Drop","Halls of Lightning (H)")   --   Librarian's Paper Cutter
 BbisRegItem(   42248   ,"3.15k Arena Points","PvP")   --   Deadly Gladiator's Shiv
-BbisRegItem(   Unknown   ,"Sapphiron","Naxxramas (25)")   --   Murder
+BbisRegItem(   40368   ,"Sapphiron","Naxxramas (25)")   --   Murder
 BbisRegItem(   40491   ,"Malygos","Eye of Eternity (10)")   --   Hailstorm
 BbisRegItem(   39427   ,"Trash Drop","Naxxramas (10)")   --   Omen of Ruin
 BbisRegItem(   44311   ,"BoE World Drop","Auction House")   --   Avool's Sword of Jin

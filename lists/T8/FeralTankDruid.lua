@@ -166,15 +166,13 @@ BbisRegItem(   37257   ,"Drakos the Interrogator","The Oculus (H)")   --   Band 
 BbisRegItem(   44935   ,"8500g","Vendor")   --   Ring of the Kirin Tor
 BbisRegItem(   11173   ,"Ignis the Furnace Master","Ulduar (25)")   --   Heart of Iron
 BbisRegItem(   46021   ,"Yogg-Saron","Ulduar (10)")   --   Royal Seal of King Llane
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
+BbisRegItem(   44253   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
 BbisRegItem(   44063   ,"Trainer (400)","Jewelcrafting")   --   Figurine - Monarch Crab
 BbisRegItem(   37220   ,"Hadronox","Azjol-Nerub (H)")   --   Essence of Gossamer
 BbisRegItem(   42341   ,"Trainer (400)","Jewelcrafting")   --   Figurine - Ruby Hare
 BbisRegItem(   40257   ,"Maexxna (25), Gothik the Harvester (25), Grobbulus (25), Heigan the Unclean (25)","Multiple")   --   Defender's Code
 BbisRegItem(   40767   ,"Trainer (420)","Engineering")   --   Sonic Booster
-BbisRegItem(   Unknown   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
-BbisRegItem(   Unknown   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
+BbisRegItem(   44323   ,"Trainer (400)","Alchemy")   --   Indestructible Alchemist's Stone
 BbisRegItem(   45533   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Dark Edge of Depravity
 BbisRegItem(   45613   ,"Freya (25 HM), Algalon the Observer (25)","Multiple")   --   Dreambinder
 BbisRegItem(   45544   ,"General Vezax (HM)","Ulduar (10)")   --   Tortured Earth

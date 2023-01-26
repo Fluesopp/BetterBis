@@ -19,7 +19,7 @@ BbisRegItem(   37726   ,"King Dred","Drak'Tharon Keep (H)")   --   King Dred's H
 BbisRegItem(   45945   ,"Freya (HM)","Ulduar (10)")   --   Seed of Budding Carnage
 BbisRegItem(   45517   ,"General Vezax (HM)","Ulduar (25)")   --   Pendulum of Infinity
 BbisRegItem(   45480   ,"Freya","Ulduar (25)")   --   Nymph Heart Charm
-BbisRegItem(   Unknown   ,"Emblem of Conquest (19)","Vendor")   --   Broach of the Wailing Night
+BbisRegItem(   45820   ,"Emblem of Conquest (19)","Vendor")   --   Broach of the Wailing Night
 BbisRegItem(   40065   ,"Anub'Rekhan (25), Grand Widow Faerlina (25), Instructor Razuvious (25), Noth the Plaguebringer (25), Patchwerk (25)","Multiple")   --   Fool's Trial
 BbisRegItem(   44664   ,"Heroic Judgement at the Eye of Eternity","Quest Reward")   --   Favor of the Dragon Queen
 BbisRegItem(   44659   ,"Judgement at the Eye of Eternity","Quest Reward")   --   Pendant of the Dragonsworn
@@ -179,8 +179,7 @@ BbisRegItem(   37685   ,"Chrono-Lord Epoch","Culling of Stratholme (H)")   --   
 BbisRegItem(   40586   ,"8500g","Vendor")   --   Band of the Kirin Tor
 BbisRegItem(   42642   ,"BoP Pattern (430)","Jewelcrafting")   --   Titanium Impact Band
 BbisRegItem(   37651   ,"Krystallus","Halls of Stone (H)")   --   The Prospector's Prize
-BbisRegItem(   Unknown   ,"Tiny Titanium Lockbox","Fishing")   --   The 5 Ring
-BbisRegItem(   Unknown   ,"Tiny Titanium Lockbox","Fishing")   --   The 5 Ring
+BbisRegItem(   45859   ,"Tiny Titanium Lockbox","Fishing")   --   The 5 Ring
 BbisRegItem(   40256   ,"Maexxna (25), Gothik the Harvester (25), Grobbulus (25), Heigan the Unclean (25)","Multiple")   --   Grim Toll
 BbisRegItem(   45931   ,"Thorim (HM)","Ulduar (10)")   --   Mjolnir Runestone
 BbisRegItem(   45609   ,"Algalon the Observer","Ulduar (25)")   --   Comet's Trail
@@ -188,7 +187,7 @@ BbisRegItem(   44434   ,"Algalon the Observer","Ulduar (10)")   --   Dark Matter
 BbisRegItem(   45522   ,"Yogg-Saron","Ulduar (25)")   --   Blood of the Old God
 BbisRegItem(   45263   ,"Kologarn","Ulduar (25)")   --   Wrathstone
 BbisRegItem(   37166   ,"Keristrasza","The Nexus (H)")   --   Sphere of Red Dragon's Blood
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
+BbisRegItem(   44253   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
 BbisRegItem(   40431   ,"Sartharion","Obsidian Sanctum (25)")   --   Fury of the Five Flights
 BbisRegItem(   40371   ,"Sapphiron","Naxxramas (25)")   --   Bandit's Insignia
 BbisRegItem(   39257   ,"Loatheb","Naxxramas (10)")   --   Loatheb's Shadow
@@ -196,7 +195,6 @@ BbisRegItem(   40684   ,"Emblem of Heroism (40)","Vendor")   --   Mirror of Trut
 BbisRegItem(   37723   ,"King Dred","Drak'Tharon Keep (H)")   --   Incisor Fragment
 BbisRegItem(   37390   ,"King Ymiron","Utgarde Pinnacle (H)")   --   Meteorite Whetstone
 BbisRegItem(   42990   ,"Undeath Deck","Darkmoon Faire")   --   Darkmoon Card: Death
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v3
 BbisRegItem(   45533   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Dark Edge of Depravity
 BbisRegItem(   45544   ,"General Vezax (HM)","Ulduar (10)")   --   Tortured Earth
 BbisRegItem(   45132   ,"Flame Leviathan (HM)","Ulduar (25)")   --   Golden Saronite Dragon
@@ -221,7 +219,7 @@ BbisRegItem(   45484   ,"Freya (HM)","Ulduar (25)")   --   Bladetwister
 BbisRegItem(   45930   ,"Thorim (HM)","Ulduar (10)")   --   Combatant's Bootblade
 BbisRegItem(   45494   ,"Mimiron (HM)","Ulduar (25)")   --   Delirium's Touch
 BbisRegItem(   40239   ,"Loatheb","Naxxramas (25)")   --   The Hand of Nerub
-BbisRegItem(   Unknown   ,"Emblem of Heroism (50)","Vendor")   --   Pride
+BbisRegItem(   40704   ,"Emblem of Heroism (50)","Vendor")   --   Pride
 BbisRegItem(   45570   ,"Thorim (25 HM), Algalon the Observer (25)","Multiple")   --   Skyforge Crossbow
 BbisRegItem(   45870   ,"XT-002 Deconstructor (HM)","Ulduar (10)")   --   Magnetized Projectile Emitter
 BbisRegItem(   42025   ,"Yogg-Saron","Ulduar (10)")   --   Deliverance
@@ -230,7 +228,7 @@ BbisRegItem(   45327   ,"Auriaya","Ulduar (25)")   --   Siren's Cry
 BbisRegItem(   33533   ,"Hodir","Ulduar (10)")   --   Avalanche
 BbisRegItem(   40385   ,"Kel'Thuzad","Naxxramas (25)")   --   Envoy of Mortality
 BbisRegItem(   40265   ,"Patchwerk","Naxxramas (25)")   --   Arrowsong
-BbisRegItem(   Unknown   ,"Kel'Thuzad","Naxxramas (10)")   --   Nerubian Conquerer
+BbisRegItem(   39419   ,"Kel'Thuzad","Naxxramas (10)")   --   Nerubian Conquerer
 BbisRegItem(   40346   ,"The Four Horsemen","Naxxramas (25)")   --   Final Voyage
 BbisRegItem(   42485   ,"4.5k Arena Points","PvP")   --   Deadly Gladiator's Rifle
 BbisRegItem(   39296   ,"Instructor Razuvious","Naxxramas (10)")   --   Accursed Bow of the Elite

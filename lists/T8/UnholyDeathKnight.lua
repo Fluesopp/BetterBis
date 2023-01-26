@@ -177,11 +177,10 @@ BbisRegItem(   44935   ,"8500g","Vendor")   --   Ring of the Kirin Tor
 BbisRegItem(   43251   ,"BoP Pattern (420)","Jewelcrafting")   --   Ring of Scarlet Shadows
 BbisRegItem(   40586   ,"8500g","Vendor")   --   Band of the Kirin Tor
 BbisRegItem(   37651   ,"Krystallus","Halls of Stone (H)")   --   The Prospector's Prize
-BbisRegItem(   Unknown   ,"Tiny Titanium Lockbox","Fishing")   --   The 5 Ring
+BbisRegItem(   45859   ,"Tiny Titanium Lockbox","Fishing")   --   The 5 Ring
 BbisRegItem(   37151   ,"Ormorok the Tree-Shaper","The Nexus (H)")   --   Band of Frosted Thorns
-BbisRegItem(   Unknown   ,"Tiny Titanium Lockbox","Fishing")   --   The 5 Ring
 BbisRegItem(   45609   ,"Algalon the Observer","Ulduar (25)")   --   Comet's Trail
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
+BbisRegItem(   42987   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   45522   ,"Yogg-Saron","Ulduar (25)")   --   Blood of the Old God
 BbisRegItem(   45286   ,"Flame Leviathan","Ulduar (10)")   --   Pyrite Infuser
 BbisRegItem(   40531   ,"Malygos","Eye of Eternity (25)")   --   Mark of Norgannon
@@ -193,7 +192,6 @@ BbisRegItem(   40684   ,"Emblem of Heroism (40)","Vendor")   --   Mirror of Trut
 BbisRegItem(   39257   ,"Loatheb","Naxxramas (10)")   --   Loatheb's Shadow
 BbisRegItem(   44914   ,"Wintergrasp Mark of Honor (25)","PvP")   --   Anvil of Titans
 BbisRegItem(   43573   ,"BoE World Drop","Auction House")   --   Tears of Bitter Anguish
-BbisRegItem(   Unknown   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   45947   ,"Freya (HM)","Ulduar (10)")   --   Serilas, Blood Blade of Invar One-Arm
 BbisRegItem(   46036   ,"General Vezax (HM)","Ulduar (10)")   --   Void Sabre
 BbisRegItem(   46097   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Caress of Insanity
@@ -216,7 +214,7 @@ BbisRegItem(   22806   ,"Razorscale","Ulduar (25)")   --   Remorse
 BbisRegItem(   40703   ,"Emblem of Heroism (50)","Vendor")   --   Grasscutter
 BbisRegItem(   45254   ,"XT-002 Deconstructor","Ulduar (25)")   --   Sigil of the Vengeful Heart
 BbisRegItem(   42620   ,"1.2k Arena Points, 6.4k Honor & 350 Arena Points","Multiple")   --   Deadly Gladiator's Sigil of Strife
-BbisRegItem(   Unknown   ,"Venture Coins (30)","PvP")   --   Sigil of the Wild Buck
+BbisRegItem(   40867   ,"Venture Coins (30)","PvP")   --   Sigil of the Wild Buck
 BbisRegItem(   40822   ,"Venture Coins (30)","PvP")   --   Sigil of the Frozen Conscience
 BbisRegItem(   40715   ,"Emblem of Heroism (15)","Vendor")   --   Sigil of Haunted Dreams
 BbisRegItem(   40207   ,"Heigan the Unclean (25), Emblem of Valor (25)","Multiple")   --   Sigil of Awareness

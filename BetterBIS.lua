@@ -48,24 +48,29 @@ function BbisSetClass(class, spec)
 end
 
 function BbisRegItem(id, who, location)
-	local classID = BBIS['class']..BBIS['spec']
+	local classID = 
+	local class = BBIS['class']
+	local spec = BBIS['spec']
 	
-	if not BBIS['db'][classID] then
-		BBIS['db'][classID] = {}
+	if not BBIS['db'][class] then
+		BBIS['db'][class] = {}
+	end
+	if not BBIS['db'][class][spec] then
+		BBIS['db'][class][spec] = {}
 	end
 
-	BBIS['db'][classID]['class'] = BBIS['class']
-	BBIS['db'][classID]['spec'] = BBIS['spec']
+	BBIS['db'][class][spec]['class'] = BBIS['class']
+	BBIS['db'][class][spec]['spec'] = BBIS['spec']
 
-	if not BBIS['db'][classID]['items'] then
-		BBIS['db'][classID]['items'] = {}
+	if not BBIS['db'][class][spec]['items'] then
+		BBIS['db'][class][spec]['items'] = {}
 		key = 1
 	end
 	--print('registerd '..classID..' items '..id)
-	BBIS['db'][classID]['items'][key] = {}
-	BBIS['db'][classID]['items'][key]['id'] = id
-	BBIS['db'][classID]['items'][key]['who'] = who
-	BBIS['db'][classID]['items'][key]['location'] = location
+	BBIS['db'][class][spec]['items'][key] = {}
+	BBIS['db'][class][spec]['items'][key]['id'] = id
+	BBIS['db'][class][spec]['items'][key]['who'] = who
+	BBIS['db'][class][spec]['items'][key]['location'] = location
 	key = key + 1
 end
 local rank = 1

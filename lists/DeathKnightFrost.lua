@@ -1,22 +1,7 @@
 BbisSetClass('DeathKnight', 'Frost') 
+
+-- Head
 BbisRegItem(   45472   ,"Thorim (HM)","Ulduar (25)")   --   Warhelm of the Champion
-BbisRegItem(   45459   ,"Hodir (HM)","Ulduar (25)")   --   Frigid Strength of Hodir
-BbisRegItem(   46037   ,"Algalon the Observer","Ulduar (10)")   --   Shoulderplates of the Celestial Watch
-BbisRegItem(   46032   ,"General Vezax (HM)","Ulduar (10)")   --   Drape of the Faceless General
-BbisRegItem(   46111   ,"Hodir (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Darkruned Battleplate
-BbisRegItem(   45663   ,"Mimiron (HM)","Ulduar (25)")   --   Armbands of Bedlam
-BbisRegItem(   46113   ,"Mimiron (25), Emalon the Storm Watcher (25)","Multiple")   --   Conqueror's Darkruned Gauntlets
-BbisRegItem(   45241   ,"The Assembly of Iron (HM)","Ulduar (25)")   --   Belt of Colossal Rage
-BbisRegItem(   45134   ,"Flame Leviathan (HM)","Ulduar (25)")   --   Plated Leggings of Ruination
-BbisRegItem(   45599   ,"Algalon the Observer","Ulduar (25)")   --   Sabatons of Lifeless Night
-BbisRegItem(   45534   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Seal of the Betrayed King
-BbisRegItem(   45608   ,"Heroic All Is Well That Ends Well","Quest Reward")   --   Brann's Signet Ring
-BbisRegItem(   45931   ,"Thorim (HM)","Ulduar (10)")   --   Mjolnir Runestone
-BbisRegItem(   42987   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
-BbisRegItem(   46097   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Caress of Insanity
-BbisRegItem(   40207   ,"Heigan the Unclean (25), Emblem of Valor (25)","Multiple")   --   Sigil of Awareness
-
-
 BbisRegItem(   45610   ,"Algalon the Observer","Ulduar (25)")   --   Boundless Gaze
 BbisRegItem(   46115   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Darkruned Helmet
 BbisRegItem(   45107   ,"Flame Leviathan","Ulduar (25)")   --   Iron Riveted War Helm
@@ -33,6 +18,9 @@ BbisRegItem(   42552   ,"Trainer (440)","Engineering")   --   Charged Titanium S
 BbisRegItem(   32373   ,"The Illidari Council","Black Temple")   --   Helm of the Illidari Shatterer
 BbisRegItem(   37237   ,"Anub'arak","Azjol-Nerub (H)")   --   Chitin Shell Greathelm
 BbisRegItem(   37293   ,"Ley-Guardian Eregos","The Oculus (H)")   --   Mask of the Watcher
+
+-- Neck
+BbisRegItem(   45459   ,"Hodir (HM)","Ulduar (25)")   --   Frigid Strength of Hodir
 BbisRegItem(   45517   ,"General Vezax (HM)","Ulduar (25)")   --   Pendulum of Infinity
 BbisRegItem(   46040   ,"Algalon the Observer","Ulduar (10)")   --   Strength of the Heavens
 BbisRegItem(   45945   ,"Freya (HM)","Ulduar (10)")   --   Seed of Budding Carnage
@@ -50,6 +38,9 @@ BbisRegItem(   40678   ,"Emblem of Heroism (25)","Vendor")   --   Pendant of the
 BbisRegItem(   37397   ,"King Ymiron","Utgarde Pinnacle (H)")   --   Gold Amulet of Kings
 BbisRegItem(   37861   ,"Xevozz","Violet Hold (H)")   --   Necklace of Arcane Spheres
 BbisRegItem(   37096   ,"Chrono-Lord Epoch","Culling of Stratholme")   --   Necklace of the Chrono-Lord
+
+-- Shoulder
+BbisRegItem(   46037   ,"Algalon the Observer","Ulduar (10)")   --   Shoulderplates of the Celestial Watch
 BbisRegItem(   45245   ,"The Assembly of Iron (HM)","Ulduar (25)")   --   Shoulderpads of the Intruder
 BbisRegItem(   45320   ,"Auriaya","Ulduar (25)")   --   Shoulderplates of the Eternal
 BbisRegItem(   46117   ,"Yogg-Saron","Ulduar (25)")   --   Conqueror's Darkruned Shoulderplates
@@ -67,6 +58,9 @@ BbisRegItem(   34388   ,"Pauldrons of Perseverance","Sunmote Transmute")   --   
 BbisRegItem(   43387   ,"Moragg","Violet Hold")   --   Shoulderplates of the Beholder
 BbisRegItem(   44195   ,"The Sons of Hodir - Revered","Reputation")   --   Spaulders of the Giant Lords
 BbisRegItem(   37627   ,"Slad'ran","Gundrak (H)")   --   Snake Den Spaulders
+
+-- Back
+BbisRegItem(   46032   ,"General Vezax (HM)","Ulduar (10)")   --   Drape of the Faceless General
 BbisRegItem(   45461   ,"Hodir (HM)","Ulduar (25)")   --   Drape of Icy Intent
 BbisRegItem(   45588   ,"Heroic All Is Well That Ends Well","Quest Reward")   --   Drape of the Skyborn
 BbisRegItem(   45138   ,"Razorscale","Ulduar (25)")   --   Drape of the Drakerider
@@ -83,9 +77,12 @@ BbisRegItem(   42061   ,"38k Honor","PvP")   --   Hateful Gladiator's Cloak of V
 BbisRegItem(   43406   ,"Erekem","Violet Hold (H)")   --   Cloak of the Gushing Wound
 BbisRegItem(   34241   ,"Kil'jaeden","Sunwell Plateau")   --   Cloak of Unforgivable Sin
 BbisRegItem(   43566   ,"Trainer (440)","Leatherworking")   --   Ice Striker's Cloak
+
+-- Chest
 BbisRegItem(   45473   ,"Thorim (HM)","Ulduar (25)")   --   Embrace of the Gladiator
 BbisRegItem(   45712   ,"Auriaya","Ulduar (10)")   --   Chestplate of Titanic Fury
 BbisRegItem(   45524   ,"Yogg-Saron","Ulduar (25)")   --   Chestguard of Insidious Intent
+BbisRegItem(   46111   ,"Hodir (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Darkruned Battleplate
 BbisRegItem(   45225   ,"The Assembly of Iron","Ulduar (25)")   --   Steelbreaker's Embrace
 BbisRegItem(   45676   ,"XT-002 Deconstructor","Ulduar (10)")   --   Chestplate of Vicious Potency
 BbisRegItem(   40539   ,"Malygos","Eye of Eternity (25)")   --   Chestguard of the Recluse
@@ -99,6 +96,9 @@ BbisRegItem(   37219   ,"Krik'thir the Gatewatcher","Azjol-Nerub (H)")   --   Cu
 BbisRegItem(   44303   ,"Knights of the Ebon Blade - Exalted","Reputation")   --   Darkheart Chestguard
 BbisRegItem(   37612   ,"Prince Taldaram","Ahn'kahet: Old Kingdom (H)")   --   Bonegrinder Breastplate
 BbisRegItem(   37722   ,"Novos the Summoner","Drak'Tharon Keep (H)")   --   Breastplate of Undeath
+
+-- Wrist
+BbisRegItem(   45663   ,"Mimiron (HM)","Ulduar (25)")   --   Armbands of Bedlam
 BbisRegItem(   45888   ,"Hodir (HM)","Ulduar (10)")   --   Bitter Cold Armguards
 BbisRegItem(   45264   ,"Kologarn","Ulduar (25)")   --   Decimator's Armguards
 BbisRegItem(   45869   ,"XT-002 Deconstructor (HM)","Ulduar (10)")   --   Fluxing Energy Coils
@@ -115,8 +115,11 @@ BbisRegItem(   37668   ,"Sjonnir The Ironshaper","Halls of Stone (H)")   --   Ba
 BbisRegItem(   43944   ,"The Sum is Greater than the Parts","Quest Reward")   --   Rings of Nergeld
 BbisRegItem(   37366   ,"Trash Drop","The Oculus (H)")   --   Drake-Champion's Bracers
 BbisRegItem(   37853   ,"Loken","Halls of Lightning (H)")   --   Advanced Tooled-Leather Bands
+
+-- Hands
 BbisRegItem(   45444   ,"XT-002 Deconstructor (HM)","Ulduar (25)")   --   Gloves of the Steady Hand
 BbisRegItem(   46043   ,"Algalon the Observer","Ulduar (10)")   --   Gloves of the Endless Dark
+BbisRegItem(   46113   ,"Mimiron (25), Emalon the Storm Watcher (25)","Multiple")   --   Conqueror's Darkruned Gauntlets
 BbisRegItem(   45481   ,"Freya","Ulduar (25)")   --   Gauntlets of Ruthless Reprisal
 BbisRegItem(   45833   ,"Emblem of Conquest (28)","Vendor")   --   Bladebreaker Gauntlets
 BbisRegItem(   45997   ,"General Vezax","Ulduar (10)")   --   Gauntlets of the Wretched
@@ -132,6 +135,9 @@ BbisRegItem(   37363   ,"Ley-Guardian Eregos","The Oculus (H)")   --   Gauntlets
 BbisRegItem(   34341   ,"Kil'jaeden","Sunwell Plateau")   --   Borderland Paingrips
 BbisRegItem(   44399   ,"A Royal Escort","Quest Reward")   --   Gauntlets of The Culling
 BbisRegItem(   35651   ,"Cyanigosa","Violet Hold")   --   Plate Claws of the Dragon
+
+-- Waist
+BbisRegItem(   45241   ,"The Assembly of Iron (HM)","Ulduar (25)")   --   Belt of Colossal Rage
 BbisRegItem(   45161   ,"Ignis the Furnace Master","Ulduar (25)")   --   Girdle of Embers
 BbisRegItem(   46095   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Soul-Devouring Cinch
 BbisRegItem(   46041   ,"Algalon the Observer","Ulduar (10)")   --   Starfall Girdle
@@ -148,6 +154,9 @@ BbisRegItem(   40688   ,"Emblem of Heroism (40)","Vendor")   --   Verdungo's Bar
 BbisRegItem(   37407   ,"King Ymiron","Utgarde Pinnacle (H)")   --   Sovereign's Belt
 BbisRegItem(   37171   ,"Keristrasza","The Nexus (H)")   --   Flame-Bathed Steel Girdle
 BbisRegItem(   37243   ,"Trash Drop","Azjol-Nerub (H)")   --   Treasure Seeker's Belt
+
+-- Legs
+BbisRegItem(   45134   ,"Flame Leviathan (HM)","Ulduar (25)")   --   Plated Leggings of Ruination
 BbisRegItem(   45536   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Legguards of Cunning Deception
 BbisRegItem(   45982   ,"Mimiron (HM)","Ulduar (10)")   --   Fused Alloy Legplates
 BbisRegItem(   45248   ,"XT-002 Deconstructor","Ulduar (25)")   --   Clockwork Legplates
@@ -164,6 +173,9 @@ BbisRegItem(   34180   ,"Brutallus","Sunwell Plateau")   --   Felfury Legplates
 BbisRegItem(   44205   ,"The Wyrmrest Accord - Exalted","Reputation")   --   Legplates of Bloody Reprisal
 BbisRegItem(   37644   ,"Gal'darah","Gundrak (H)")   --   Gored Hide Legguards
 BbisRegItem(   43940   ,"The Rider of the Unholy","Quest Reward")   --   Plated Legs of the Unholy
+
+-- Feet
+BbisRegItem(   45599   ,"Algalon the Observer","Ulduar (25)")   --   Sabatons of Lifeless Night
 BbisRegItem(   40591   ,"Malygos","Eye of Eternity (25)")   --   Melancholy Sabatons
 BbisRegItem(   45501   ,"General Vezax","Ulduar (25)")   --   Boots of the Underdweller
 BbisRegItem(   45989   ,"Mimiron (HM)","Ulduar (10)")   --   Tempered Mercury Greaves
@@ -180,6 +192,10 @@ BbisRegItem(   44895   ,"Wintergrasp Mark of Honor (15)","PvP")   --   Titan-For
 BbisRegItem(   44306   ,"Knights of the Ebon Blade - Exalted","Reputation")   --   Death-Inured Sabatons
 BbisRegItem(   37367   ,"Svala Sorrowgrave","Utgarde Pinnacle (H)")   --   Echoing Stompers
 BbisRegItem(   32345   ,"Reliquary of the Lost","Black Temple")   --   Dreadboots of the Legion
+
+-- Finger 1
+BbisRegItem(   45534   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Seal of the Betrayed King
+BbisRegItem(   45608   ,"Heroic All Is Well That Ends Well","Quest Reward")   --   Brann's Signet Ring
 BbisRegItem(   46048   ,"Algalon the Observer","Ulduar (10)")   --   Band of Lights
 BbisRegItem(   46322   ,"All Is Well That Ends Well","Quest Reward")   --   Brann's Sealing Ring
 BbisRegItem(   45456   ,"The Assembly of Iron (HM)","Ulduar (10)")   --   Loop of the Agile
@@ -196,6 +212,12 @@ BbisRegItem(   44935   ,"8500g","Vendor")   --   Ring of the Kirin Tor
 BbisRegItem(   42642   ,"BoP Pattern (430)","Jewelcrafting")   --   Titanium Impact Band
 BbisRegItem(   40586   ,"8500g","Vendor")   --   Band of the Kirin Tor
 BbisRegItem(   37642   ,"Gal'darah","Gundrak (H)")   --   Hemorrhaging Circle
+
+-- Finger 2
+
+-- Trinket 1
+BbisRegItem(   45931   ,"Thorim (HM)","Ulduar (10)")   --   Mjolnir Runestone
+BbisRegItem(   42987   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness v2
 BbisRegItem(   45609   ,"Algalon the Observer","Ulduar (25)")   --   Comet's Trail
 BbisRegItem(   44434   ,"Algalon the Observer","Ulduar (10)")   --   Dark Matter
 BbisRegItem(   40256   ,"Maexxna (25), Gothik the Harvester (25), Grobbulus (25), Heigan the Unclean (25)","Multiple")   --   Grim Toll
@@ -207,6 +229,11 @@ BbisRegItem(   37166   ,"Keristrasza","The Nexus (H)")   --   Sphere of Red Drag
 BbisRegItem(   37390   ,"King Ymiron","Utgarde Pinnacle (H)")   --   Meteorite Whetstone
 BbisRegItem(   37723   ,"King Dred","Drak'Tharon Keep (H)")   --   Incisor Fragment
 BbisRegItem(   43573   ,"BoE World Drop","Auction House")   --   Tears of Bitter Anguish
+
+-- Trinket 2
+
+-- Weapon
+BbisRegItem(   46097   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Caress of Insanity
 BbisRegItem(   45947   ,"Freya (HM)","Ulduar (10)")   --   Serilas, Blood Blade of Invar One-Arm
 BbisRegItem(   45463   ,"Thorim","Ulduar (25)")   --   Vulmir, the Northern Tempest
 BbisRegItem(   3194   ,"Kologarn","Ulduar (25)")   --   Malice
@@ -223,6 +250,11 @@ BbisRegItem(   44250   ,"Knights of the Ebon Blade - Revered","Reputation")   --
 BbisRegItem(   37235   ,"Anub'arak","Azjol-Nerub (H)")   --   Crypt Lord's Deft Blade
 BbisRegItem(   37871   ,"Lavanthor","Violet Hold (H)")   --   The Key
 BbisRegItem(   43407   ,"Erekem","Violet Hold (H)")   --   Stormstrike Mace
+
+-- Off hand
+
+-- Relic
+BbisRegItem(   40207   ,"Heigan the Unclean (25), Emblem of Valor (25)","Multiple")   --   Sigil of Awareness
 BbisRegItem(   45254   ,"XT-002 Deconstructor","Ulduar (25)")   --   Sigil of the Vengeful Heart
 BbisRegItem(   40715   ,"Emblem of Heroism (15)","Vendor")   --   Sigil of Haunted Dreams
 BbisRegItem(   40822   ,"Venture Coins (30)","PvP")   --   Sigil of the Frozen Conscience

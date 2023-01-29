@@ -1,25 +1,9 @@
 BbisSetClass('Priest', 'Discipline') 
-BbisRegItem(   46197   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Cowl of Sanctification
-BbisRegItem(   45443   ,"XT-002 Deconstructor (HM)","Ulduar (25)")   --   Charm of Meticulous Timing
-BbisRegItem(   46190   ,"Yogg-Saron","Ulduar (25)")   --   Conqueror's Shoulderpads of Sanctification
-BbisRegItem(   45486   ,"Freya (HM)","Ulduar (25)")   --   Drape of the Sullen Goddess
-BbisRegItem(   46193   ,"Hodir (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Robe of Sanctification
-BbisRegItem(   45446   ,"XT-002 Deconstructor (HM)","Ulduar (25)")   --   Grasps of Reason
-BbisRegItem(   45520   ,"General Vezax (HM)","Ulduar (25)")   --   Handwraps of the Vigilant
-BbisRegItem(   45619   ,"Algalon the Observer","Ulduar (25)")   --   Starwatcher's Binding
-BbisRegItem(   46195   ,"Freya (25), Emalon the Storm Watcher (25)","Multiple")   --   Conqueror's Leggings of Sanctification
-BbisRegItem(   46050   ,"Algalon the Observer","Ulduar (10)")   --   Starlight Treads
-BbisRegItem(   45614   ,"Heroic All Is Well That Ends Well","Quest Reward")   --   Starshine Circle
-BbisRegItem(   46096   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Signet of Soft Lament
-BbisRegItem(   40432   ,"Sartharion","Obsidian Sanctum (25)")   --   Illustration of the Dragon Soul
-BbisRegItem(   45535   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Show of Faith
-BbisRegItem(   45612   ,"Algalon the Observer","Ulduar (25)")   --   Constellus
-BbisRegItem(   45314   ,"Ignis the Furnace Master","Ulduar (10)")   --   Igniter Rod
-BbisRegItem(   45170   ,"Ignis the Furnace Master","Ulduar (25)")   --   Scepter of Creation
 
-
+-- Head
 BbisRegItem(   45497   ,"Mimiron (HM)","Ulduar (25)")   --   Crown of Luminescence
 BbisRegItem(   45289   ,"Flame Leviathan","Ulduar (10)")   --   Lifespark Visage
+BbisRegItem(   46197   ,"Thorim (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Cowl of Sanctification
 BbisRegItem(   45532   ,"Yogg-Saron","Ulduar (25)")   --   Cowl of Dark Whispers
 BbisRegItem(   45386   ,"Mimiron","Ulduar (10)")   --   Valorous Cowl of Sanctification
 BbisRegItem(   40447   ,"Kel'Thuzad","Naxxramas (25)")   --   Valorous Crown of Faith
@@ -34,6 +18,9 @@ BbisRegItem(   34339   ,"Kil'jaeden","Sunwell Plateau")   --   Cowl of Light's P
 BbisRegItem(   37294   ,"Ley-Guardian Eregos","The Oculus (H)")   --   Crown of Unbridled Magic
 BbisRegItem(   37684   ,"Salramm the Fleshcrafter","Culling of Stratholme (H)")   --   Forgotten Shadow Hood
 BbisRegItem(   37594   ,"Elder Nadox","Ahn'kahet: Old Kingdom (H)")   --   Elder Headpiece
+
+-- Neck
+BbisRegItem(   45443   ,"XT-002 Deconstructor (HM)","Ulduar (25)")   --   Charm of Meticulous Timing
 BbisRegItem(   45243   ,"The Assembly of Iron (HM)","Ulduar (25)")   --   Sapphire Amulet of Renewal
 BbisRegItem(   45933   ,"Thorim (HM)","Ulduar (10)")   --   Pendant of the Shallow Grave
 BbisRegItem(   45133   ,"Flame Leviathan (HM)","Ulduar (25)")   --   Pendant of Fiery Havoc
@@ -51,7 +38,10 @@ BbisRegItem(   42023   ,"38k Honor","PvP")   --   Hateful Gladiator's Pendant of
 BbisRegItem(   37683   ,"Salramm the Fleshcrafter","Culling of Stratholme (H)")   --   Necromancer's Amulet
 BbisRegItem(   33281   ,"Akil'zon","Zul'Aman")   --   Brooch of Nature's Mercy
 BbisRegItem(   37141   ,"Anomalus","The Nexus (H)")   --   Amulet of Dazzling Light
+
+-- Shoulder
 BbisRegItem(   46068   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Amice of Inconceivable Horror
+BbisRegItem(   46190   ,"Yogg-Saron","Ulduar (25)")   --   Conqueror's Shoulderpads of Sanctification
 BbisRegItem(   45390   ,"Thorim","Ulduar (10)")   --   Valorous Shoulderpads of Sanctification
 BbisRegItem(   45253   ,"XT-002 Deconstructor","Ulduar (25)")   --   Mantle of Wavering Calm
 BbisRegItem(   46013   ,"General Vezax","Ulduar (10)")   --   Underworld Mantle
@@ -67,7 +57,10 @@ BbisRegItem(   34202   ,"Eredar Twins","Sunwell Plateau")   --   Shawl of Wonder
 BbisRegItem(   41550   ,"Trainer (410)","Tailoring")   --   Duskweave Shoulders
 BbisRegItem(   37196   ,"Trash Drop","Utgarde Keep (H)")   --   Runecaster's Mantle
 BbisRegItem(   37691   ,"Mal'Ganis","Culling of Stratholme (H)")   --   Mantle of Deceit
+
+-- Back
 BbisRegItem(   45618   ,"Heroic All Is Well That Ends Well","Quest Reward")   --   Sunglimmer Cloak
+BbisRegItem(   45486   ,"Freya (HM)","Ulduar (25)")   --   Drape of the Sullen Goddess
 BbisRegItem(   46321   ,"All Is Well That Ends Well","Quest Reward")   --   Sunglimmer Drape
 BbisRegItem(   45541   ,"Trash Drop","Ulduar (25)")   --   Shroud of Alteration
 BbisRegItem(   44005   ,"Sartharion 2 Drakes","Obsidian Sanctum (25)")   --   Pennant Cloak
@@ -83,8 +76,11 @@ BbisRegItem(   34242   ,"Kil'jaeden","Sunwell Plateau")   --   Tattered Cape of 
 BbisRegItem(   42056   ,"38k Honor","PvP")   --   Hateful Gladiator's Cloak of Subjugation
 BbisRegItem(   44167   ,"Kirin Tor - Honored","Reputation")   --   Shroud of Dedicated Research
 BbisRegItem(   37630   ,"Moorabi","Gundrak (H)")   --   Shroud of Moorabi
+
+-- Chest
 BbisRegItem(   45272   ,"Kologarn","Ulduar (25)")   --   Robes of the Umbral Brute
 BbisRegItem(   45240   ,"The Assembly of Iron","Ulduar (25)")   --   Raiments of the Iron Council
+BbisRegItem(   46193   ,"Hodir (25), Emblem of Conquest (58)","Multiple")   --   Conqueror's Robe of Sanctification
 BbisRegItem(   44002   ,"Sartharion","Obsidian Sanctum (25)")   --   The Sanctum's Flowing Vestments
 BbisRegItem(   45389   ,"Yogg-Saron","Ulduar (10)")   --   Valorous Robe of Sanctification
 BbisRegItem(   46012   ,"General Vezax","Ulduar (10)")   --   Vestments of the Piercing Light
@@ -97,6 +93,9 @@ BbisRegItem(   37258   ,"Drakos the Interrogator","The Oculus (H)")   --   Drake
 BbisRegItem(   37222   ,"Hadronox","Azjol-Nerub (H)")   --   Egg Sac Robes
 BbisRegItem(   39515   ,"The Four Horsemen (10), Gluth (10), Archavon the Stone Watcher (10), Emblem of Heroism (80)","Multiple")   --   Heroes' Robe of Faith
 BbisRegItem(   34399   ,"Robes of Faltered Light","Sunmote Transmute")   --   Robes of Ghostly Hatred
+
+-- Wrist
+BbisRegItem(   45446   ,"XT-002 Deconstructor (HM)","Ulduar (25)")   --   Grasps of Reason
 BbisRegItem(   44008   ,"Sartharion 2 Drakes","Obsidian Sanctum (25)")   --   Unsullied Cuffs
 BbisRegItem(   40741   ,"Emblem of Valor (60)","Vendor")   --   Cuffs of the Shadow Ascendant
 BbisRegItem(   45146   ,"Razorscale","Ulduar (25)")   --   Shackles of the Odalisque
@@ -110,7 +109,10 @@ BbisRegItem(   37884   ,"Cyanigosa","Violet Hold (H)")   --   Azure Cloth Bindin
 BbisRegItem(   41555   ,"Trainer (415)","Tailoring")   --   Black Duskweave Wristwraps
 BbisRegItem(   37613   ,"Prince Taldaram","Ahn'kahet: Old Kingdom (H)")   --   Flame Sphere Bindings
 BbisRegItem(   34435   ,"Kalecgos, Eredar Twins","Sunwell Plateau")   --   Cuffs of Absolution
+
+-- Hands
 BbisRegItem(   45665   ,"Algalon the Observer","Ulduar (25)")   --   Pharos Gloves
+BbisRegItem(   45520   ,"General Vezax (HM)","Ulduar (25)")   --   Handwraps of the Vigilant
 BbisRegItem(   46188   ,"Mimiron (25), Emalon the Storm Watcher (25)","Multiple")   --   Conqueror's Gloves of Sanctification
 BbisRegItem(   45273   ,"Kologarn","Ulduar (25)")   --   Handwraps of Plentiful Recovery
 BbisRegItem(   45840   ,"Emblem of Conquest (28)","Vendor")   --   Touch of the Occult
@@ -125,6 +127,9 @@ BbisRegItem(   37172   ,"Keristrasza","The Nexus (H)")   --   Gloves of Glisteni
 BbisRegItem(   43287   ,"Amanitar","Ahn'kahet: Old Kingdom (H)")   --   Silken Bridge Handwraps
 BbisRegItem(   39519   ,"Sartharion (10), Archavon the Stone Watcher (10), Emblem of Heroism (60)","Multiple")   --   Heroes' Gloves of Faith
 BbisRegItem(   34406   ,"Handguards of the Dawn","Sunmote Transmute")   --   Gloves of Tyri's Power
+
+-- Waist
+BbisRegItem(   45619   ,"Algalon the Observer","Ulduar (25)")   --   Starwatcher's Binding
 BbisRegItem(   45119   ,"Flame Leviathan","Ulduar (25)")   --   Embrace of the Leviathan
 BbisRegItem(   40561   ,"Malygos","Eye of Eternity (25)")   --   Leash of Heedless Magic
 BbisRegItem(   45104   ,"BoE Pattern (450)","Tailoring")   --   Cord of the White Dawn
@@ -140,6 +145,9 @@ BbisRegItem(   37289   ,"Mage-Lord Urom","The Oculus (H)")   --   Sash of Phanta
 BbisRegItem(   37242   ,"Anub'arak","Azjol-Nerub (H)")   --   Sash of the Servant
 BbisRegItem(   37637   ,"Drakkari Colossus","Gundrak (H)")   --   Living Mojo Belt
 BbisRegItem(   34528   ,"Brutallus, Eredar Twins","Sunwell Plateau")   --   Cord of Absolution
+
+-- Legs
+BbisRegItem(   46195   ,"Freya (25), Emalon the Storm Watcher (25)","Multiple")   --   Conqueror's Leggings of Sanctification
 BbisRegItem(   45388   ,"Hodir, Emalon the Storm Watcher (10)","Multiple")   --   Valorous Leggings of Sanctification
 BbisRegItem(   46034   ,"General Vezax (HM)","Ulduar (10)")   --   Leggings of Profound Darkness
 BbisRegItem(   45468   ,"Thorim","Ulduar (25)")   --   Leggings of Lost Love
@@ -156,9 +164,12 @@ BbisRegItem(   34386   ,"Pantaloons of Calming Strife","Sunmote Transmute")   --
 BbisRegItem(   41553   ,"Trainer (425)","Tailoring")   --   Black Duskweave Leggings
 BbisRegItem(   37369   ,"Svala Sorrowgrave","Utgarde Pinnacle (H)")   --   Sorrowgrave's Breeches
 BbisRegItem(   37189   ,"Ingvar the Plunderer","Utgarde Keep (H)")   --   Breeches of the Caller
+
+-- Feet
 BbisRegItem(   45135   ,"Flame Leviathan (HM)","Ulduar (25)")   --   Boots of Fiery Resolution
 BbisRegItem(   45537   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Treads of the False Oracle
 BbisRegItem(   45103   ,"BoE Pattern (450)","Tailoring")   --   Spellslinger's Slippers
+BbisRegItem(   46050   ,"Algalon the Observer","Ulduar (10)")   --   Starlight Treads
 BbisRegItem(   45483   ,"Freya","Ulduar (25)")   --   Boots of the Servant
 BbisRegItem(   45441   ,"Auriaya","Ulduar (25)")   --   Sandals of the Ancient Keeper
 BbisRegItem(   40558   ,"Malygos","Eye of Eternity (25)")   --   Arcanic Tramplers
@@ -172,10 +183,14 @@ BbisRegItem(   36954   ,"Mage-Lord Urom","The Oculus")   --   The Conjurer's Sli
 BbisRegItem(   44900   ,"Wintergrasp Mark of Honor (15)","PvP")   --   Titan-Forged Slippers of Salvation
 BbisRegItem(   37218   ,"Krik'thir the Gatewatcher","Azjol-Nerub (H)")   --   Stone-Worn Footwraps
 BbisRegItem(   37867   ,"Xevozz","Violet Hold (H)")   --   Footwraps of Teleportation
+
+-- Finger 1
 BbisRegItem(   45495   ,"Mimiron (HM)","Ulduar (25)")   --   Conductive Seal
+BbisRegItem(   45614   ,"Heroic All Is Well That Ends Well","Quest Reward")   --   Starshine Circle
 BbisRegItem(   45946   ,"Freya (HM)","Ulduar (10)")   --   Fire Orchid Signet
 BbisRegItem(   46046   ,"Algalon the Observer","Ulduar (10)")   --   Nebula Band
 BbisRegItem(   46323   ,"All Is Well That Ends Well","Quest Reward")   --   Starshine Signet
+BbisRegItem(   46096   ,"Yogg-Saron (HM)","Ulduar (10)")   --   Signet of Soft Lament
 BbisRegItem(   40399   ,"Kel'Thuzad","Naxxramas (25)")   --   Signet of Manifested Pain
 BbisRegItem(   40375   ,"Sapphiron","Naxxramas (25)")   --   Ring of Decaying Beauty
 BbisRegItem(   40719   ,"Emblem of Valor (25)","Vendor")   --   Band of Channeled Magic
@@ -188,6 +203,12 @@ BbisRegItem(   37192   ,"Ingvar the Plunderer","Utgarde Keep (H)")   --   Annhyl
 BbisRegItem(   39740   ,"8500g","Vendor")   --   Signet of the Kirin Tor
 BbisRegItem(   43408   ,"Moragg","Violet Hold (H)")   --   Solitaire of Reflecting Beams
 BbisRegItem(   42644   ,"BoP Pattern (430)","Jewelcrafting")   --   Titanium Spellshock Ring
+
+-- Finger 2
+
+-- Trinket 1
+BbisRegItem(   40432   ,"Sartharion","Obsidian Sanctum (25)")   --   Illustration of the Dragon Soul
+BbisRegItem(   45535   ,"Yogg-Saron (HM)","Ulduar (25)")   --   Show of Faith
 BbisRegItem(   45308   ,"Razorscale","Ulduar (10)")   --   Eye of the Broodmother
 BbisRegItem(   45929   ,"Thorim (HM)","Ulduar (10)")   --   Sif's Remembrance
 BbisRegItem(   46051   ,"Algalon the Observer","Ulduar (10)")   --   Meteorite Crystal
@@ -200,7 +221,12 @@ BbisRegItem(   40382   ,"Sapphiron","Naxxramas (25)")   --   Soul of the Dead
 BbisRegItem(   42987   ,"Nobles Deck","Darkmoon Faire")   --   Darkmoon Card: Greatness
 BbisRegItem(   44322   ,"Trainer (400)","Alchemy")   --   Mercurial Alchemist Stone
 BbisRegItem(   40685   ,"Emblem of Heroism (40)","Vendor")   --   The Egg of Mortal Essence
+
+-- Trinket 2
+
+-- Weapon
 BbisRegItem(   45897   ,"Fragment of Val'anyr (30)","Ulduar (25)")   --   Val'anyr, Hammer of Ancient Kings
+BbisRegItem(   45612   ,"Algalon the Observer","Ulduar (25)")   --   Constellus
 BbisRegItem(   45457   ,"Hodir (HM)","Ulduar (25)")   --   Staff of Endless Winter
 BbisRegItem(   45886   ,"Hodir (HM)","Ulduar (10)")   --   Icecore Staff
 BbisRegItem(   46035   ,"General Vezax (HM)","Ulduar (10)")   --   Aesuga, Hand of the Ardent Champion
@@ -217,7 +243,10 @@ BbisRegItem(   41384   ,"Trainer (440)","Blacksmithing")   --   Titansteel Guard
 BbisRegItem(   37384   ,"Skadi the Ruthless","Utgarde Pinnacle (H)")   --   Staff of Wayward Principles
 BbisRegItem(   37617   ,"Herald Volazj","Ahn'kahet: Old Kingdom (H)")   --   Staff of Sinister Claws
 BbisRegItem(   44199   ,"The Wyrmrest Accord - Revered","Reputation")   --   Gavel of the Brewing Storm
+
+-- Off hand
 BbisRegItem(   45271   ,"Kologarn","Ulduar (25)")   --   Ironmender
+BbisRegItem(   45314   ,"Ignis the Furnace Master","Ulduar (10)")   --   Igniter Rod
 BbisRegItem(   39766   ,"Maexxna","Naxxramas (25)")   --   Matriarch's Spawn
 BbisRegItem(   40350   ,"The Four Horsemen","Naxxramas (25)")   --   Urn of Lost Memories
 BbisRegItem(   40192   ,"Noth the Plaguebringer","Naxxramas (25)")   --   Accursed Spine
@@ -228,7 +257,10 @@ BbisRegItem(   37718   ,"Novos the Summoner","Drak'Tharon Keep (H)")   --   Temp
 BbisRegItem(   37051   ,"Gortok Palehoof","Utgarde Pinnacle")   --   Seal of Valgarde
 BbisRegItem(   37889   ,"Trash Drop","Violet Hold (H)")   --   Prison Manifest
 BbisRegItem(   37364   ,"Trash Drop","The Oculus (H)")   --   Frostbridge Orb
+
+-- Ranged
 BbisRegItem(   45511   ,"General Vezax","Ulduar (25)")   --   Scepter of Lost Souls
+BbisRegItem(   45170   ,"Ignis the Furnace Master","Ulduar (25)")   --   Scepter of Creation
 BbisRegItem(   40245   ,"Loatheb","Naxxramas (25)")   --   Fading Glow
 BbisRegItem(   45713   ,"Auriaya","Ulduar (10)")   --   Nurturing Touch
 BbisRegItem(   39426   ,"Kel'Thuzad","Naxxramas (10)")   --   Wand of the Archlich

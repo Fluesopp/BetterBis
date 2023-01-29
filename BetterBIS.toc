@@ -1,7 +1,7 @@
 ## Interface: 30400
 ## Title: Better BIS
 ## Notes: My bis list
-## Version: 2.8
+## Version: 2.9
 ## SavedVariables: 
 
 BetterBIS.lua

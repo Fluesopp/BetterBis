@@ -9,21 +9,22 @@ local function GameTooltip_OnTooltipSetItem(tooltip)
 	tooltip:AddLine(' ')
 	tooltip:AddLine(BBISColor("Better BIS:", "gold"))
 	local thereIsOne = false
-	for key,value in pairs(BBIS['db']) do
-		local classid = key
-		local class = BBIS['db'][classid]['class']
-		local spec = BBIS['db'][classid]['spec']
-		local rank = BbisGetRank(0)
-		for key,value in pairs(BBIS['db'][classid]['items']) do
-			local thisItemId = BBIS['db'][classid]['items'][key]['id']
-			local _,_,_,_,_,_,_,_,thisItemEquipLoc = GetItemInfo(thisItemId)
-			if (mainItemEquipLoc == thisItemEquipLoc or BbisBothAreWeapons(mainItemEquipLoc, thisItemEquipLoc)) then
-				rank = BbisGetRank()
-			end
-			if(thisItemId == id) then
-				tooltip:AddDoubleLine(BBISColor(spec, class), BBISColor(rank, class))
-				thereIsOne = true
-			end
+	for class,value in pairs(BBIS['db']) do
+		for spec,value in pairs(BBIS['db'][class]) do
+
+				local rank = BbisGetRank(0)
+				for item,value in pairs(BBIS['db'][class][spec]['items']) do
+					local thisItemId = BBIS['db'][class][spec]['items'][item]['id']
+					local _,_,_,_,_,_,_,_,thisItemEquipLoc = GetItemInfo(thisItemId)
+					if (mainItemEquipLoc == thisItemEquipLoc or BbisBothAreWeapons(mainItemEquipLoc, thisItemEquipLoc)) then
+						rank = BbisGetRank()
+					end
+					if(thisItemId == id) then
+						tooltip:AddDoubleLine(BBISColor(spec, class), BBISColor(rank, class))
+						thereIsOne = true
+					end
+				end
+			
 		end
 	end
 	if not thereIsOne then
@@ -38,13 +39,12 @@ local function GameTooltip_OnTooltipSetItem(tooltip)
 	tooltip:AddLine(BBISColor("BIS list:", "gold"))
 	local class = UnitClass("Player")
 	local spec = BBISgetSpec()
-	local classid = class..spec
 	BbisGetRank(0)
-	if(BBIS['db'][classid]) then
-		for key,value in pairs(BBIS['db'][classid]['items']) do
-			local thisItemId = BBIS['db'][classid]['items'][key]['id']
-			local who = BBIS['db'][classid]['items'][key]['who']
-			local loc = BBIS['db'][classid]['items'][key]['location']
+	if(BBIS['db'][class][spec]) then
+		for key,value in pairs(BBIS['db'][class][spec]['items']) do
+			local thisItemId = BBIS['db'][class][spec]['items'][key]['id']
+			local who = BBIS['db'][class][spec]['items'][key]['who']
+			local loc = BBIS['db'][class][spec]['items'][key]['location']
 			local _,link,_,_,_,_,_,_,itemEquipLoc = GetItemInfo(thisItemId)
 			if(itemEquipLoc == mainItemEquipLoc or BbisBothAreWeapons(mainItemEquipLoc, itemEquipLoc)) then
 				rank = BbisGetRank()

@@ -48,7 +48,6 @@ function BbisSetClass(class, spec)
 end
 
 function BbisRegItem(id, who, location)
-	local classID = 
 	local class = BBIS['class']
 	local spec = BBIS['spec']
 	

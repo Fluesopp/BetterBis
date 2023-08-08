@@ -1,5 +1,5 @@
 ### Description
-Displays BIS list on every item, ex hovering over head item will display the head bis list.
+Displays BIS list on every item, ex hovering over head item will display the head bis list. I use [WowTbcCrawler](https://github.com/Fluesopp/WowTbcCrawler) to generate the lists 
 
 ### Functions
 - Hold "Alt" to see your bis list for the same type of item you are hovering.  
